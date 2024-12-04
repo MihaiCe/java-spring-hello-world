@@ -1,0 +1,2703 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V5.3.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="PRO TV">
+    <display-name lang="ro">PRO TV</display-name>
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/pro-tv.jpg" />
+    <url>http://www.cinemagia.ro</url>
+  </channel>
+  <channel id="Antena 1">
+    <display-name lang="ro">Antena 1</display-name>
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/antena-1.jpg" />
+    <url>http://www.cinemagia.ro</url>
+  </channel>
+  <channel id="TVR 1">
+    <display-name lang="ro">TVR 1</display-name>
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/tvr-1.jpg" />
+    <url>http://www.cinemagia.ro</url>
+  </channel>
+  <channel id="Prima TV">
+    <display-name lang="ro">Prima TV</display-name>
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/prima-tv.jpg" />
+    <url>http://www.cinemagia.ro</url>
+  </channel>
+  <channel id="Kanal D">
+    <display-name lang="ro">Kanal D</display-name>
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/kanal-d.jpg" />
+    <url>http://www.cinemagia.ro</url>
+  </channel>
+  <channel id="National TV">
+    <display-name lang="ro">National TV</display-name>
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/national-tv.jpg" />
+    <url>http://www.cinemagia.ro</url>
+  </channel>
+  <channel id="B1 TV">
+    <display-name lang="ro">B1 TV</display-name>
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/b1-tv.jpg" />
+    <url>http://www.cinemagia.ro</url>
+  </channel>
+  <channel id="TVR 2">
+    <display-name lang="ro">TVR 2</display-name>
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/tvr-2.jpg" />
+    <url>http://www.cinemagia.ro</url>
+  </channel>
+  <channel id="A7TV">
+    <display-name lang="ro">A7TV</display-name>
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/a7tv.jpg" />
+    <url>http://www.cinemagia.ro</url>
+  </channel>
+  <channel id="Agro TV">
+    <display-name lang="ro">Agro TV</display-name>
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/agro-tv.jpg" />
+    <url>http://www.cinemagia.ro</url>
+  </channel>
+  <channel id="Alfa Omega TV">
+    <display-name lang="ro">Alfa Omega TV</display-name>
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/alfa-omega-tv.jpg" />
+    <url>http://www.cinemagia.ro</url>
+  </channel>
+  <channel id="Antena 1 HD">
+    <display-name lang="ro">Antena 1 HD</display-name>
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/antena-1-hd.jpg" />
+    <url>http://www.cinemagia.ro</url>
+  </channel>
+  <channel id="Antena International">
+    <display-name lang="ro">Antena International</display-name>
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/antena-international.jpg" />
+    <url>http://www.cinemagia.ro</url>
+  </channel>
+  <channel id="Antena International HD">
+    <display-name lang="ro">Antena International HD</display-name>
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/antena-international-hd.jpg" />
+    <url>http://www.cinemagia.ro</url>
+  </channel>
+  <channel id="Antena Stars">
+    <display-name lang="ro">Antena Stars</display-name>
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/antena-stars.jpg" />
+    <url>http://www.cinemagia.ro</url>
+  </channel>
+  <channel id="Kanal D2">
+    <display-name lang="ro">Kanal D2</display-name>
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/kanal-d2.jpg" />
+    <url>http://www.cinemagia.ro</url>
+  </channel>
+  <channel id="Credo TV">
+    <display-name lang="ro">Credo TV</display-name>
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/credo-tv.jpg" />
+    <url>http://www.cinemagia.ro</url>
+  </channel>
+  <channel id="Sens TV">
+    <display-name lang="ro">Sens TV</display-name>
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/sens-tv.jpg" />
+    <url>http://www.cinemagia.ro</url>
+  </channel>
+  <channel id="Inedit TV">
+    <display-name lang="ro">Inedit TV</display-name>
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/inedit-tv.jpg" />
+    <url>http://www.cinemagia.ro</url>
+  </channel>
+  <channel id="Job TV">
+    <display-name lang="ro">Job TV</display-name>
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/job-tv.jpg" />
+    <url>http://www.cinemagia.ro</url>
+  </channel>
+  <channel id="Litoral TV">
+    <display-name lang="ro">Litoral TV</display-name>
+    <url>http://www.cinemagia.ro</url>
+  </channel>
+  <channel id="Metropola TV">
+    <display-name lang="ro">Metropola TV</display-name>
+    <url>http://www.cinemagia.ro</url>
+  </channel>
+  <channel id="Moldova TV">
+    <display-name lang="ro">Moldova TV</display-name>
+    <url>http://www.cinemagia.ro</url>
+  </channel>
+  <channel id="Nasul TV">
+    <display-name lang="ro">Nasul TV</display-name>
+    <url>http://www.cinemagia.ro</url>
+  </channel>
+  <channel id="Orizont TV">
+    <display-name lang="ro">Orizont TV</display-name>
+    <url>http://www.cinemagia.ro</url>
+  </channel>
+  <channel id="PRO TV INTERNATIONAL">
+    <display-name lang="ro">PRO TV INTERNATIONAL</display-name>
+    <url>http://www.cinemagia.ro</url>
+  </channel>
+  <channel id="Speranta TV">
+    <display-name lang="ro">Speranta TV</display-name>
+    <url>http://www.cinemagia.ro</url>
+  </channel>
+  <channel id="Trinitas TV">
+    <display-name lang="ro">Trinitas TV</display-name>
+    <url>http://www.cinemagia.ro</url>
+  </channel>
+  <channel id="TV City HD">
+    <display-name lang="ro">TV City HD</display-name>
+    <url>http://www.cinemagia.ro</url>
+  </channel>
+  <channel id="TV Sud Est">
+    <display-name lang="ro">TV Sud Est</display-name>
+    <url>http://www.cinemagia.ro</url>
+  </channel>
+  <channel id="TVR 3">
+    <display-name lang="ro">TVR 3</display-name>
+    <url>http://www.cinemagia.ro</url>
+  </channel>
+  <channel id="TVR Cultural">
+    <display-name lang="ro">TVR Cultural</display-name>
+    <url>http://www.cinemagia.ro</url>
+  </channel>
+  <channel id="TVR Cluj">
+    <display-name lang="ro">TVR Cluj</display-name>
+    <url>http://www.cinemagia.ro</url>
+  </channel>
+  <channel id="TVR Craiova">
+    <display-name lang="ro">TVR Craiova</display-name>
+    <url>http://www.cinemagia.ro</url>
+  </channel>
+  <channel id="TVR Iași">
+    <display-name lang="ro">TVR Iași</display-name>
+    <url>http://www.cinemagia.ro</url>
+  </channel>
+  <channel id="TVR International">
+    <display-name lang="ro">TVR International</display-name>
+    <url>http://www.cinemagia.ro</url>
+  </channel>
+  <channel id="TVR Moldova">
+    <display-name lang="ro">TVR Moldova</display-name>
+    <url>http://www.cinemagia.ro</url>
+  </channel>
+  <channel id="TVR Târgu Mureș">
+    <display-name lang="ro">TVR Târgu Mureș</display-name>
+    <url>http://www.cinemagia.ro</url>
+  </channel>
+  <channel id="TVR Timișoara">
+    <display-name lang="ro">TVR Timișoara</display-name>
+    <url>http://www.cinemagia.ro</url>
+  </channel>
+  <channel id="Valea Prahovei TV">
+    <display-name lang="ro">Valea Prahovei TV</display-name>
+    <url>http://www.cinemagia.ro</url>
+  </channel>
+  <channel id="VTV">
+    <display-name lang="ro">VTV</display-name>
+    <url>http://www.cinemagia.ro</url>
+  </channel>
+  <channel id="Canal 33">
+    <display-name lang="ro">Canal 33</display-name>
+    <url>http://www.cinemagia.ro</url>
+  </channel>
+  <channel id="Kapital TV">
+    <display-name lang="ro">Kapital TV</display-name>
+    <url>http://www.cinemagia.ro</url>
+  </channel>
+  <channel id="Favorit">
+    <display-name lang="ro">Favorit</display-name>
+    <url>http://www.cinemagia.ro</url>
+  </channel>
+  <channel id="Museum 4k">
+    <display-name lang="ro">Museum 4k</display-name>
+    <url>http://www.cinemagia.ro</url>
+  </channel>
+  <channel id="MyZen 4K">
+    <display-name lang="ro">MyZen 4K</display-name>
+    <url>http://www.cinemagia.ro</url>
+  </channel>
+  <channel id="TeleMoldova Plus">
+    <display-name lang="ro">TeleMoldova Plus</display-name>
+    <url>http://www.cinemagia.ro</url>
+  </channel>
+  <channel id="Telestar 1">
+    <display-name lang="ro">Telestar 1</display-name>
+    <url>http://www.cinemagia.ro</url>
+  </channel>
+  <channel id="TVR Info">
+    <display-name lang="ro">TVR Info</display-name>
+    <url>http://www.cinemagia.ro</url>
+  </channel>
+  <channel id="Smart TV HD">
+    <display-name lang="ro">Smart TV HD</display-name>
+    <url>http://www.cinemagia.ro</url>
+  </channel>
+  <channel id="Aleph Business HD">
+    <display-name lang="ro">Aleph Business HD</display-name>
+    <url>http://www.cinemagia.ro</url>
+  </channel>
+  <channel id="Al Jazeera">
+    <display-name lang="ro">Al Jazeera</display-name>
+    <url>http://www.cinemagia.ro</url>
+  </channel>
+  <channel id="Aleph News">
+    <display-name lang="ro">Aleph News</display-name>
+    <url>http://www.cinemagia.ro</url>
+  </channel>
+  <channel id="Antena 3 CNN">
+    <display-name lang="ro">Antena 3 CNN</display-name>
+    <url>http://www.cinemagia.ro</url>
+  </channel>
+  <channel id="Antena 3 CNN HD">
+    <display-name lang="ro">Antena 3 CNN HD</display-name>
+    <url>http://www.cinemagia.ro</url>
+  </channel>
+  <channel id="Bloomberg">
+    <display-name lang="ro">Bloomberg</display-name>
+    <url>http://www.cinemagia.ro</url>
+  </channel>
+  <channel id="CGTN">
+    <display-name lang="ro">CGTN</display-name>
+    <url>http://www.cinemagia.ro</url>
+  </channel>
+  <channel id="CNN">
+    <display-name lang="ro">CNN</display-name>
+    <url>http://www.cinemagia.ro</url>
+  </channel>
+  <channel id="Digi 24">
+    <display-name lang="ro">Digi 24</display-name>
+    <url>http://www.cinemagia.ro</url>
+  </channel>
+  <channel id="Digi 24 HD">
+    <display-name lang="ro">Digi 24 HD</display-name>
+    <url>http://www.cinemagia.ro</url>
+  </channel>
+  <channel id="E! Entertainment">
+    <display-name lang="ro">E! Entertainment</display-name>
+    <url>http://www.cinemagia.ro</url>
+  </channel>
+  <channel id="Euronews">
+    <display-name lang="ro">Euronews</display-name>
+    <url>http://www.cinemagia.ro</url>
+  </channel>
+  <channel id="Kabel 1">
+    <display-name lang="ro">Kabel 1</display-name>
+    <url>http://www.cinemagia.ro</url>
+  </channel>
+  <channel id="LUXE TV">
+    <display-name lang="ro">LUXE TV</display-name>
+    <url>http://www.cinemagia.ro</url>
+  </channel>
+  <channel id="National 24 Plus">
+    <display-name lang="ro">National 24 Plus</display-name>
+    <url>http://www.cinemagia.ro</url>
+  </channel>
+  <channel id="Profit News TV">
+    <display-name lang="ro">Profit News TV</display-name>
+    <url>http://www.cinemagia.ro</url>
+  </channel>
+  <channel id="Rai 3">
+    <display-name lang="ro">Rai 3</display-name>
+    <url>http://www.cinemagia.ro</url>
+  </channel>
+  <channel id="Realitatea Plus">
+    <display-name lang="ro">Realitatea Plus</display-name>
+    <url>http://www.cinemagia.ro</url>
+  </channel>
+  <channel id="România TV">
+    <display-name lang="ro">România TV</display-name>
+    <url>http://www.cinemagia.ro</url>
+  </channel>
+  <channel id="RT HD">
+    <display-name lang="ro">RT HD</display-name>
+    <url>http://www.cinemagia.ro</url>
+  </channel>
+  <channel id="Sixx">
+    <display-name lang="ro">Sixx</display-name>
+    <url>http://www.cinemagia.ro</url>
+  </channel>
+  <channel id="Welt">
+    <display-name lang="ro">Welt</display-name>
+    <url>http://www.cinemagia.ro</url>
+  </channel>
+  <channel id="Euronews Romania">
+    <display-name lang="ro">Euronews Romania</display-name>
+    <url>http://www.cinemagia.ro</url>
+  </channel>
+  <channel id="Euronews Romania HD">
+    <display-name lang="ro">Euronews Romania HD</display-name>
+    <url>http://www.cinemagia.ro</url>
+  </channel>
+  <channel id="Prima News">
+    <display-name lang="ro">Prima News</display-name>
+    <url>http://www.cinemagia.ro</url>
+  </channel>
+  <channel id="auto motor und sport channel">
+    <display-name lang="ro">auto motor und sport channel</display-name>
+    <url>http://www.cinemagia.ro</url>
+  </channel>
+  <channel id="Digi 4K">
+    <display-name lang="ro">Digi 4K</display-name>
+    <url>http://www.cinemagia.ro</url>
+  </channel>
+  <channel id="Digi Sport 1">
+    <display-name lang="ro">Digi Sport 1</display-name>
+    <url>http://www.cinemagia.ro</url>
+  </channel>
+  <channel id="Digi Sport 2">
+    <display-name lang="ro">Digi Sport 2</display-name>
+    <url>http://www.cinemagia.ro</url>
+  </channel>
+  <channel id="Digi Sport 3">
+    <display-name lang="ro">Digi Sport 3</display-name>
+    <url>http://www.cinemagia.ro</url>
+  </channel>
+  <channel id="Digi Sport 4">
+    <display-name lang="ro">Digi Sport 4</display-name>
+    <url>http://www.cinemagia.ro</url>
+  </channel>
+  <channel id="Eurosport 1">
+    <display-name lang="ro">Eurosport 1</display-name>
+    <url>http://www.cinemagia.ro</url>
+  </channel>
+  <channel id="Eurosport 2">
+    <display-name lang="ro">Eurosport 2</display-name>
+    <url>http://www.cinemagia.ro</url>
+  </channel>
+  <channel id="Eurosport 4K">
+    <display-name lang="ro">Eurosport 4K</display-name>
+    <url>http://www.cinemagia.ro</url>
+  </channel>
+  <channel id="Extreme Sports">
+    <display-name lang="ro">Extreme Sports</display-name>
+    <url>http://www.cinemagia.ro</url>
+  </channel>
+  <channel id="Prima 4K">
+    <display-name lang="ro">Prima 4K</display-name>
+    <url>http://www.cinemagia.ro</url>
+  </channel>
+  <channel id="Prima Sport 2">
+    <display-name lang="ro">Prima Sport 2</display-name>
+    <url>http://www.cinemagia.ro</url>
+  </channel>
+  <channel id="Prima Sport 1">
+    <display-name lang="ro">Prima Sport 1</display-name>
+    <url>http://www.cinemagia.ro</url>
+  </channel>
+  <channel id="Prima Sport 3">
+    <display-name lang="ro">Prima Sport 3</display-name>
+    <url>http://www.cinemagia.ro</url>
+  </channel>
+  <channel id="Prima Sport 4">
+    <display-name lang="ro">Prima Sport 4</display-name>
+    <url>http://www.cinemagia.ro</url>
+  </channel>
+  <channel id="Prima Sport 5">
+    <display-name lang="ro">Prima Sport 5</display-name>
+    <url>http://www.cinemagia.ro</url>
+  </channel>
+  <channel id="Nautical Channel">
+    <display-name lang="ro">Nautical Channel</display-name>
+    <url>http://www.cinemagia.ro</url>
+  </channel>
+  <channel id="Pro Arena">
+    <display-name lang="ro">Pro Arena</display-name>
+    <url>http://www.cinemagia.ro</url>
+  </channel>
+  <channel id="Sport Extra">
+    <display-name lang="ro">Sport Extra</display-name>
+    <url>http://www.cinemagia.ro</url>
+  </channel>
+  <channel id="Fast &amp; FunBox HD">
+    <display-name lang="ro">Fast &amp; FunBox HD</display-name>
+    <url>http://www.cinemagia.ro</url>
+  </channel>
+  <channel id="TVR Sport HD">
+    <display-name lang="ro">TVR Sport HD</display-name>
+    <url>http://www.cinemagia.ro</url>
+  </channel>
+  <channel id="HBO">
+    <display-name lang="ro">HBO</display-name>
+    <url>http://www.cinemagia.ro</url>
+  </channel>
+  <channel id="HBO 2">
+    <display-name lang="ro">HBO 2</display-name>
+    <url>http://www.cinemagia.ro</url>
+  </channel>
+  <channel id="Pro Cinema">
+    <display-name lang="ro">Pro Cinema</display-name>
+    <url>http://www.cinemagia.ro</url>
+  </channel>
+  <channel id="AMC">
+    <display-name lang="ro">AMC</display-name>
+    <url>http://www.cinemagia.ro</url>
+  </channel>
+  <channel id="BBC First">
+    <display-name lang="ro">BBC First</display-name>
+    <url>http://www.cinemagia.ro</url>
+  </channel>
+  <channel id="AXN">
+    <display-name lang="ro">AXN</display-name>
+    <url>http://www.cinemagia.ro</url>
+  </channel>
+  <channel id="AXN Black">
+    <display-name lang="ro">AXN Black</display-name>
+    <url>http://www.cinemagia.ro</url>
+  </channel>
+  <channel id="AXN Spin">
+    <display-name lang="ro">AXN Spin</display-name>
+    <url>http://www.cinemagia.ro</url>
+  </channel>
+  <channel id="AXN White">
+    <display-name lang="ro">AXN White</display-name>
+    <url>http://www.cinemagia.ro</url>
+  </channel>
+  <channel id="Bollywood Clasic">
+    <display-name lang="ro">Bollywood Clasic</display-name>
+    <url>http://www.cinemagia.ro</url>
+  </channel>
+  <channel id="Bollywood FILM">
+    <display-name lang="ro">Bollywood FILM</display-name>
+    <url>http://www.cinemagia.ro</url>
+  </channel>
+  <channel id="Bollywood HD">
+    <display-name lang="ro">Bollywood HD</display-name>
+    <url>http://www.cinemagia.ro</url>
+  </channel>
+  <channel id="Bollywood TV">
+    <display-name lang="ro">Bollywood TV</display-name>
+    <url>http://www.cinemagia.ro</url>
+  </channel>
+  <channel id="Cinemaraton">
+    <display-name lang="ro">Cinemaraton</display-name>
+    <url>http://www.cinemagia.ro</url>
+  </channel>
+  <channel id="CineMAX">
+    <display-name lang="ro">CineMAX</display-name>
+    <url>http://www.cinemagia.ro</url>
+  </channel>
+  <channel id="Cinemax 2">
+    <display-name lang="ro">Cinemax 2</display-name>
+    <url>http://www.cinemagia.ro</url>
+  </channel>
+  <channel id="Comedy Central">
+    <display-name lang="ro">Comedy Central</display-name>
+    <url>http://www.cinemagia.ro</url>
+  </channel>
+  <channel id="Cool TV">
+    <display-name lang="ro">Cool TV</display-name>
+    <url>http://www.cinemagia.ro</url>
+  </channel>
+  <channel id="Diva">
+    <display-name lang="ro">Diva</display-name>
+    <url>http://www.cinemagia.ro</url>
+  </channel>
+  <channel id="Duna">
+    <display-name lang="ro">Duna</display-name>
+    <url>http://www.cinemagia.ro</url>
+  </channel>
+  <channel id="Epic Drama">
+    <display-name lang="ro">Epic Drama</display-name>
+    <url>http://www.cinemagia.ro</url>
+  </channel>
+  <channel id="Film +">
+    <display-name lang="ro">Film +</display-name>
+    <url>http://www.cinemagia.ro</url>
+  </channel>
+  <channel id="Film Now">
+    <display-name lang="ro">Film Now</display-name>
+    <url>http://www.cinemagia.ro</url>
+  </channel>
+  <channel id="Filmbox">
+    <display-name lang="ro">Filmbox</display-name>
+    <url>http://www.cinemagia.ro</url>
+  </channel>
+  <channel id="FilmBox Arthouse">
+    <display-name lang="ro">FilmBox Arthouse</display-name>
+    <url>http://www.cinemagia.ro</url>
+  </channel>
+  <channel id="FilmBox Family">
+    <display-name lang="ro">FilmBox Family</display-name>
+    <url>http://www.cinemagia.ro</url>
+  </channel>
+  <channel id="Filmbox Premium">
+    <display-name lang="ro">Filmbox Premium</display-name>
+    <url>http://www.cinemagia.ro</url>
+  </channel>
+  <channel id="Filmbox Stars">
+    <display-name lang="ro">Filmbox Stars</display-name>
+    <url>http://www.cinemagia.ro</url>
+  </channel>
+  <channel id="FILM CAFE">
+    <display-name lang="ro">FILM CAFE</display-name>
+    <url>http://www.cinemagia.ro</url>
+  </channel>
+  <channel id="Happy Channel">
+    <display-name lang="ro">Happy Channel</display-name>
+    <url>http://www.cinemagia.ro</url>
+  </channel>
+  <channel id="Happy Channel HD">
+    <display-name lang="ro">Happy Channel HD</display-name>
+    <url>http://www.cinemagia.ro</url>
+  </channel>
+  <channel id="HBO 3">
+    <display-name lang="ro">HBO 3</display-name>
+    <url>http://www.cinemagia.ro</url>
+  </channel>
+  <channel id="Acasa">
+    <display-name lang="ro">Acasa</display-name>
+    <url>http://www.cinemagia.ro</url>
+  </channel>
+  <channel id="Acasa Gold">
+    <display-name lang="ro">Acasa Gold</display-name>
+    <url>http://www.cinemagia.ro</url>
+  </channel>
+  <channel id="Timeless Dizi Channel HD">
+    <display-name lang="ro">Timeless Dizi Channel HD</display-name>
+    <url>http://www.cinemagia.ro</url>
+  </channel>
+  <channel id="TeenNick">
+    <display-name lang="ro">TeenNick</display-name>
+    <url>http://www.cinemagia.ro</url>
+  </channel>
+  <channel id="Warner TV">
+    <display-name lang="ro">Warner TV</display-name>
+    <url>http://www.cinemagia.ro</url>
+  </channel>
+  <channel id="TV1000">
+    <display-name lang="ro">TV1000</display-name>
+    <url>http://www.cinemagia.ro</url>
+  </channel>
+  <channel id="Film Mania">
+    <display-name lang="ro">Film Mania</display-name>
+    <url>http://www.cinemagia.ro</url>
+  </channel>
+  <channel id="360TuneBox">
+    <display-name lang="ro">360TuneBox</display-name>
+    <url>http://www.cinemagia.ro</url>
+  </channel>
+  <channel id="Gametoon HD">
+    <display-name lang="ro">Gametoon HD</display-name>
+    <url>http://www.cinemagia.ro</url>
+  </channel>
+  <channel id="TV5 Monde Europe">
+    <display-name lang="ro">TV5 Monde Europe</display-name>
+    <url>http://www.cinemagia.ro</url>
+  </channel>
+  <channel id="3sat">
+    <display-name lang="ro">3sat</display-name>
+    <url>http://www.cinemagia.ro</url>
+  </channel>
+  <channel id="ARD">
+    <display-name lang="ro">ARD</display-name>
+    <url>http://www.cinemagia.ro</url>
+  </channel>
+  <channel id="arte">
+    <display-name lang="ro">arte</display-name>
+    <url>http://www.cinemagia.ro</url>
+  </channel>
+  <channel id="BBC News">
+    <display-name lang="ro">BBC News</display-name>
+    <url>http://www.cinemagia.ro</url>
+  </channel>
+  <channel id="CBS Reality">
+    <display-name lang="ro">CBS Reality</display-name>
+    <url>http://www.cinemagia.ro</url>
+  </channel>
+  <channel id="Deutsche Welle">
+    <display-name lang="ro">Deutsche Welle</display-name>
+    <url>http://www.cinemagia.ro</url>
+  </channel>
+  <channel id="Duna World HD">
+    <display-name lang="ro">Duna World HD</display-name>
+    <url>http://www.cinemagia.ro</url>
+  </channel>
+  <channel id="Erdely TV">
+    <display-name lang="ro">Erdely TV</display-name>
+    <url>http://www.cinemagia.ro</url>
+  </channel>
+  <channel id="Fashion TV">
+    <display-name lang="ro">Fashion TV</display-name>
+    <url>http://www.cinemagia.ro</url>
+  </channel>
+  <channel id="Film4">
+    <display-name lang="ro">Film4</display-name>
+    <url>http://www.cinemagia.ro</url>
+  </channel>
+  <channel id="Food Network">
+    <display-name lang="ro">Food Network</display-name>
+    <url>http://www.cinemagia.ro</url>
+  </channel>
+  <channel id="France 2">
+    <display-name lang="ro">France 2</display-name>
+    <url>http://www.cinemagia.ro</url>
+  </channel>
+  <channel id="France 24">
+    <display-name lang="ro">France 24</display-name>
+    <url>http://www.cinemagia.ro</url>
+  </channel>
+  <channel id="France 24 En">
+    <display-name lang="ro">France 24 En</display-name>
+    <url>http://www.cinemagia.ro</url>
+  </channel>
+  <channel id="France 3">
+    <display-name lang="ro">France 3</display-name>
+    <url>http://www.cinemagia.ro</url>
+  </channel>
+  <channel id="France 5">
+    <display-name lang="ro">France 5</display-name>
+    <url>http://www.cinemagia.ro</url>
+  </channel>
+  <channel id="Galaxy4">
+    <display-name lang="ro">Galaxy4</display-name>
+    <url>http://www.cinemagia.ro</url>
+  </channel>
+  <channel id="GINX Esports TV">
+    <display-name lang="ro">GINX Esports TV</display-name>
+    <url>http://www.cinemagia.ro</url>
+  </channel>
+  <channel id="KIKA">
+    <display-name lang="ro">KIKA</display-name>
+    <url>http://www.cinemagia.ro</url>
+  </channel>
+  <channel id="M1">
+    <display-name lang="ro">M1</display-name>
+    <url>http://www.cinemagia.ro</url>
+  </channel>
+  <channel id="M2">
+    <display-name lang="ro">M2</display-name>
+    <url>http://www.cinemagia.ro</url>
+  </channel>
+  <channel id="M5 HD">
+    <display-name lang="ro">M5 HD</display-name>
+    <url>http://www.cinemagia.ro</url>
+  </channel>
+  <channel id="Mediaset Italia">
+    <display-name lang="ro">Mediaset Italia</display-name>
+    <url>http://www.cinemagia.ro</url>
+  </channel>
+  <channel id="N-TV">
+    <display-name lang="ro">N-TV</display-name>
+    <url>http://www.cinemagia.ro</url>
+  </channel>
+  <channel id="PHOENIX">
+    <display-name lang="ro">PHOENIX</display-name>
+    <url>http://www.cinemagia.ro</url>
+  </channel>
+  <channel id="Pro 7">
+    <display-name lang="ro">Pro 7</display-name>
+    <url>http://www.cinemagia.ro</url>
+  </channel>
+  <channel id="Rai 1">
+    <display-name lang="ro">Rai 1</display-name>
+    <url>http://www.cinemagia.ro</url>
+  </channel>
+  <channel id="Rai 2">
+    <display-name lang="ro">Rai 2</display-name>
+    <url>http://www.cinemagia.ro</url>
+  </channel>
+  <channel id="RTL">
+    <display-name lang="ro">RTL</display-name>
+    <url>http://www.cinemagia.ro</url>
+  </channel>
+  <channel id="RTL Gold">
+    <display-name lang="ro">RTL Gold</display-name>
+    <url>http://www.cinemagia.ro</url>
+  </channel>
+  <channel id="RTL KETTŐ">
+    <display-name lang="ro">RTL KETTŐ</display-name>
+    <url>http://www.cinemagia.ro</url>
+  </channel>
+  <channel id="RTL Nitro">
+    <display-name lang="ro">RTL Nitro</display-name>
+    <url>http://www.cinemagia.ro</url>
+  </channel>
+  <channel id="RTL ZWEI">
+    <display-name lang="ro">RTL ZWEI</display-name>
+    <url>http://www.cinemagia.ro</url>
+  </channel>
+  <channel id="RTL HÁROM">
+    <display-name lang="ro">RTL HÁROM</display-name>
+    <url>http://www.cinemagia.ro</url>
+  </channel>
+  <channel id="Sat 1">
+    <display-name lang="ro">Sat 1</display-name>
+    <url>http://www.cinemagia.ro</url>
+  </channel>
+  <channel id="Sorozat+">
+    <display-name lang="ro">Sorozat+</display-name>
+    <url>http://www.cinemagia.ro</url>
+  </channel>
+  <channel id="Story4">
+    <display-name lang="ro">Story4</display-name>
+    <url>http://www.cinemagia.ro</url>
+  </channel>
+  <channel id="RTL Super!">
+    <display-name lang="ro">RTL Super!</display-name>
+    <url>http://www.cinemagia.ro</url>
+  </channel>
+  <channel id="Travel Channel">
+    <display-name lang="ro">Travel Channel</display-name>
+    <url>http://www.cinemagia.ro</url>
+  </channel>
+  <channel id="TV Paprika">
+    <display-name lang="ro">TV Paprika</display-name>
+    <url>http://www.cinemagia.ro</url>
+  </channel>
+  <channel id="TV4">
+    <display-name lang="ro">TV4</display-name>
+    <url>http://www.cinemagia.ro</url>
+  </channel>
+  <channel id="TVE Internacional">
+    <display-name lang="ro">TVE Internacional</display-name>
+    <url>http://www.cinemagia.ro</url>
+  </channel>
+  <channel id="VOX">
+    <display-name lang="ro">VOX</display-name>
+    <url>http://www.cinemagia.ro</url>
+  </channel>
+  <channel id="ZDF">
+    <display-name lang="ro">ZDF</display-name>
+    <url>http://www.cinemagia.ro</url>
+  </channel>
+  <channel id="ZDF info">
+    <display-name lang="ro">ZDF info</display-name>
+    <url>http://www.cinemagia.ro</url>
+  </channel>
+  <channel id="ZDF neo">
+    <display-name lang="ro">ZDF neo</display-name>
+    <url>http://www.cinemagia.ro</url>
+  </channel>
+  <channel id="RTL HU">
+    <display-name lang="ro">RTL HU</display-name>
+    <url>http://www.cinemagia.ro</url>
+  </channel>
+  <channel id="Minimax HU">
+    <display-name lang="ro">Minimax HU</display-name>
+    <url>http://www.cinemagia.ro</url>
+  </channel>
+  <channel id="SUPER TV2">
+    <display-name lang="ro">SUPER TV2</display-name>
+    <url>http://www.cinemagia.ro</url>
+  </channel>
+  <channel id="TV Paprika HU">
+    <display-name lang="ro">TV Paprika HU</display-name>
+    <url>http://www.cinemagia.ro</url>
+  </channel>
+  <channel id="TV2">
+    <display-name lang="ro">TV2</display-name>
+    <url>http://www.cinemagia.ro</url>
+  </channel>
+  <channel id="Disco Mix HD">
+    <display-name lang="ro">Disco Mix HD</display-name>
+    <url>http://www.cinemagia.ro</url>
+  </channel>
+  <channel id="24 Mix Teleshop">
+    <display-name lang="ro">24 Mix Teleshop</display-name>
+    <url>http://www.cinemagia.ro</url>
+  </channel>
+  <channel id="Balkanika TV">
+    <display-name lang="ro">Balkanika TV</display-name>
+    <url>http://www.cinemagia.ro</url>
+  </channel>
+  <channel id="Club MTV">
+    <display-name lang="ro">Club MTV</display-name>
+    <url>http://www.cinemagia.ro</url>
+  </channel>
+  <channel id="EMI TV">
+    <display-name lang="ro">EMI TV</display-name>
+    <url>http://www.cinemagia.ro</url>
+  </channel>
+  <channel id="Etno TV">
+    <display-name lang="ro">Etno TV</display-name>
+    <url>http://www.cinemagia.ro</url>
+  </channel>
+  <channel id="H!T Music Channel">
+    <display-name lang="ro">H!T Music Channel</display-name>
+    <url>http://www.cinemagia.ro</url>
+  </channel>
+  <channel id="Kiss TV">
+    <display-name lang="ro">Kiss TV</display-name>
+    <url>http://www.cinemagia.ro</url>
+  </channel>
+  <channel id="Magic TV">
+    <display-name lang="ro">Magic TV</display-name>
+    <url>http://www.cinemagia.ro</url>
+  </channel>
+  <channel id="Mezzo">
+    <display-name lang="ro">Mezzo</display-name>
+    <url>http://www.cinemagia.ro</url>
+  </channel>
+  <channel id="Mooz Dance">
+    <display-name lang="ro">Mooz Dance</display-name>
+    <url>http://www.cinemagia.ro</url>
+  </channel>
+  <channel id="Mooz Dance HD">
+    <display-name lang="ro">Mooz Dance HD</display-name>
+    <url>http://www.cinemagia.ro</url>
+  </channel>
+  <channel id="Mooz HD">
+    <display-name lang="ro">Mooz HD</display-name>
+    <url>http://www.cinemagia.ro</url>
+  </channel>
+  <channel id="Mooz Hits">
+    <display-name lang="ro">Mooz Hits</display-name>
+    <url>http://www.cinemagia.ro</url>
+  </channel>
+  <channel id="Mooz Ro">
+    <display-name lang="ro">Mooz Ro</display-name>
+    <url>http://www.cinemagia.ro</url>
+  </channel>
+  <channel id="MTV 00s">
+    <display-name lang="ro">MTV 00s</display-name>
+    <url>http://www.cinemagia.ro</url>
+  </channel>
+  <channel id="MTV 80s">
+    <display-name lang="ro">MTV 80s</display-name>
+    <url>http://www.cinemagia.ro</url>
+  </channel>
+  <channel id="MTV 90s">
+    <display-name lang="ro">MTV 90s</display-name>
+    <url>http://www.cinemagia.ro</url>
+  </channel>
+  <channel id="MTV Europe">
+    <display-name lang="ro">MTV Europe</display-name>
+    <url>http://www.cinemagia.ro</url>
+  </channel>
+  <channel id="MTV Hits">
+    <display-name lang="ro">MTV Hits</display-name>
+    <url>http://www.cinemagia.ro</url>
+  </channel>
+  <channel id="Music Channel">
+    <display-name lang="ro">Music Channel</display-name>
+    <url>http://www.cinemagia.ro</url>
+  </channel>
+  <channel id="Muzsika TV">
+    <display-name lang="ro">Muzsika TV</display-name>
+    <url>http://www.cinemagia.ro</url>
+  </channel>
+  <channel id="Party Mix">
+    <display-name lang="ro">Party Mix</display-name>
+    <url>http://www.cinemagia.ro</url>
+  </channel>
+  <channel id="Rock TV">
+    <display-name lang="ro">Rock TV</display-name>
+    <url>http://www.cinemagia.ro</url>
+  </channel>
+  <channel id="Stingray Classica">
+    <display-name lang="ro">Stingray Classica</display-name>
+    <url>http://www.cinemagia.ro</url>
+  </channel>
+  <channel id="Stingray Djazz">
+    <display-name lang="ro">Stingray Djazz</display-name>
+    <url>http://www.cinemagia.ro</url>
+  </channel>
+  <channel id="Taraf TV">
+    <display-name lang="ro">Taraf TV</display-name>
+    <url>http://www.cinemagia.ro</url>
+  </channel>
+  <channel id="UTV">
+    <display-name lang="ro">UTV</display-name>
+    <url>http://www.cinemagia.ro</url>
+  </channel>
+  <channel id="ZU TV">
+    <display-name lang="ro">ZU TV</display-name>
+    <url>http://www.cinemagia.ro</url>
+  </channel>
+  <channel id="ZU TV HD">
+    <display-name lang="ro">ZU TV HD</display-name>
+    <url>http://www.cinemagia.ro</url>
+  </channel>
+  <channel id="Rapsodia TV">
+    <display-name lang="ro">Rapsodia TV</display-name>
+    <url>http://www.cinemagia.ro</url>
+  </channel>
+  <channel id="TVR Folclor">
+    <display-name lang="ro">TVR Folclor</display-name>
+    <url>http://www.cinemagia.ro</url>
+  </channel>
+  <channel id="Animal Planet">
+    <display-name lang="ro">Animal Planet</display-name>
+    <url>http://www.cinemagia.ro</url>
+  </channel>
+  <channel id="Animal Planet HD">
+    <display-name lang="ro">Animal Planet HD</display-name>
+    <url>http://www.cinemagia.ro</url>
+  </channel>
+  <channel id="Prima World">
+    <display-name lang="ro">Prima World</display-name>
+    <url>http://www.cinemagia.ro</url>
+  </channel>
+  <channel id="BBC Earth">
+    <display-name lang="ro">BBC Earth</display-name>
+    <url>http://www.cinemagia.ro</url>
+  </channel>
+  <channel id="Crime + Investigation">
+    <display-name lang="ro">Crime + Investigation</display-name>
+    <url>http://www.cinemagia.ro</url>
+  </channel>
+  <channel id="Da Vinci">
+    <display-name lang="ro">Da Vinci</display-name>
+    <url>http://www.cinemagia.ro</url>
+  </channel>
+  <channel id="Digi Animal World">
+    <display-name lang="ro">Digi Animal World</display-name>
+    <url>http://www.cinemagia.ro</url>
+  </channel>
+  <channel id="Digi Life">
+    <display-name lang="ro">Digi Life</display-name>
+    <url>http://www.cinemagia.ro</url>
+  </channel>
+  <channel id="Digi World">
+    <display-name lang="ro">Digi World</display-name>
+    <url>http://www.cinemagia.ro</url>
+  </channel>
+  <channel id="Discovery Channel">
+    <display-name lang="ro">Discovery Channel</display-name>
+    <url>http://www.cinemagia.ro</url>
+  </channel>
+  <channel id="HGTV HD">
+    <display-name lang="ro">HGTV HD</display-name>
+    <url>http://www.cinemagia.ro</url>
+  </channel>
+  <channel id="History">
+    <display-name lang="ro">History</display-name>
+    <url>http://www.cinemagia.ro</url>
+  </channel>
+  <channel id="ID Investigation Discovery">
+    <display-name lang="ro">ID Investigation Discovery</display-name>
+    <url>http://www.cinemagia.ro</url>
+  </channel>
+  <channel id="Love Nature">
+    <display-name lang="ro">Love Nature</display-name>
+    <url>http://www.cinemagia.ro</url>
+  </channel>
+  <channel id="M4 Sport">
+    <display-name lang="ro">M4 Sport</display-name>
+    <url>http://www.cinemagia.ro</url>
+  </channel>
+  <channel id="Medika TV">
+    <display-name lang="ro">Medika TV</display-name>
+    <url>http://www.cinemagia.ro</url>
+  </channel>
+  <channel id="Museum HD">
+    <display-name lang="ro">Museum HD</display-name>
+    <url>http://www.cinemagia.ro</url>
+  </channel>
+  <channel id="Nat Geo People">
+    <display-name lang="ro">Nat Geo People</display-name>
+    <url>http://www.cinemagia.ro</url>
+  </channel>
+  <channel id="National Geographic">
+    <display-name lang="ro">National Geographic</display-name>
+    <url>http://www.cinemagia.ro</url>
+  </channel>
+  <channel id="National Geographic Wild">
+    <display-name lang="ro">National Geographic Wild</display-name>
+    <url>http://www.cinemagia.ro</url>
+  </channel>
+  <channel id="The Fishing &amp; Hunting Channel">
+    <display-name lang="ro">The Fishing &amp; Hunting Channel</display-name>
+    <url>http://www.cinemagia.ro</url>
+  </channel>
+  <channel id="TLC">
+    <display-name lang="ro">TLC</display-name>
+    <url>http://www.cinemagia.ro</url>
+  </channel>
+  <channel id="Travel Mix">
+    <display-name lang="ro">Travel Mix</display-name>
+    <url>http://www.cinemagia.ro</url>
+  </channel>
+  <channel id="Viasat Explore">
+    <display-name lang="ro">Viasat Explore</display-name>
+    <url>http://www.cinemagia.ro</url>
+  </channel>
+  <channel id="Viasat History">
+    <display-name lang="ro">Viasat History</display-name>
+    <url>http://www.cinemagia.ro</url>
+  </channel>
+  <channel id="Viasat Nature">
+    <display-name lang="ro">Viasat Nature</display-name>
+    <url>http://www.cinemagia.ro</url>
+  </channel>
+  <channel id="TraLaLa HD">
+    <display-name lang="ro">TraLaLa HD</display-name>
+    <url>http://www.cinemagia.ro</url>
+  </channel>
+  <channel id="BabyTV">
+    <display-name lang="ro">BabyTV</display-name>
+    <url>http://www.cinemagia.ro</url>
+  </channel>
+  <channel id="Cartoonito">
+    <display-name lang="ro">Cartoonito</display-name>
+    <url>http://www.cinemagia.ro</url>
+  </channel>
+  <channel id="Cartoon Network">
+    <display-name lang="ro">Cartoon Network</display-name>
+    <url>http://www.cinemagia.ro</url>
+  </channel>
+  <channel id="Disney Channel">
+    <display-name lang="ro">Disney Channel</display-name>
+    <url>http://www.cinemagia.ro</url>
+  </channel>
+  <channel id="Disney Junior">
+    <display-name lang="ro">Disney Junior</display-name>
+    <url>http://www.cinemagia.ro</url>
+  </channel>
+  <channel id="Duck TV">
+    <display-name lang="ro">Duck TV</display-name>
+    <url>http://www.cinemagia.ro</url>
+  </channel>
+  <channel id="Jimjam">
+    <display-name lang="ro">Jimjam</display-name>
+    <url>http://www.cinemagia.ro</url>
+  </channel>
+  <channel id="Minimax">
+    <display-name lang="ro">Minimax</display-name>
+    <url>http://www.cinemagia.ro</url>
+  </channel>
+  <channel id="Nick Jr">
+    <display-name lang="ro">Nick Jr</display-name>
+    <url>http://www.cinemagia.ro</url>
+  </channel>
+  <channel id="Nickelodeon">
+    <display-name lang="ro">Nickelodeon</display-name>
+    <url>http://www.cinemagia.ro</url>
+  </channel>
+  <channel id="Nicktoons">
+    <display-name lang="ro">Nicktoons</display-name>
+    <url>http://www.cinemagia.ro</url>
+  </channel>
+  <channel id="România TV HD">
+    <display-name lang="ro">România TV HD</display-name>
+    <url>http://www.cinemagia.ro</url>
+  </channel>
+  <channel id="Viasat Nature HD">
+    <display-name lang="ro">Viasat Nature HD</display-name>
+    <url>http://www.cinemagia.ro</url>
+  </channel>
+  <channel id="Viasat History HD">
+    <display-name lang="ro">Viasat History HD</display-name>
+    <url>http://www.cinemagia.ro</url>
+  </channel>
+  <channel id="Viasat Explore HD">
+    <display-name lang="ro">Viasat Explore HD</display-name>
+    <url>http://www.cinemagia.ro</url>
+  </channel>
+  <channel id="Shop on TV HD">
+    <display-name lang="ro">Shop on TV HD</display-name>
+    <url>http://www.cinemagia.ro</url>
+  </channel>
+  <channel id="Trinitas TV HD">
+    <display-name lang="ro">Trinitas TV HD</display-name>
+    <url>http://www.cinemagia.ro</url>
+  </channel>
+  <channel id="CNN HD">
+    <display-name lang="ro">CNN HD</display-name>
+    <url>http://www.cinemagia.ro</url>
+  </channel>
+  <channel id="Pro Cinema HD">
+    <display-name lang="ro">Pro Cinema HD</display-name>
+    <url>http://www.cinemagia.ro</url>
+  </channel>
+  <channel id="Duna HD">
+    <display-name lang="ro">Duna HD</display-name>
+    <url>http://www.cinemagia.ro</url>
+  </channel>
+  <channel id="Film + HD">
+    <display-name lang="ro">Film + HD</display-name>
+    <url>http://www.cinemagia.ro</url>
+  </channel>
+  <channel id="FILM CAFE HD">
+    <display-name lang="ro">FILM CAFE HD</display-name>
+    <url>http://www.cinemagia.ro</url>
+  </channel>
+  <channel id="Acasa Gold HD">
+    <display-name lang="ro">Acasa Gold HD</display-name>
+    <url>http://www.cinemagia.ro</url>
+  </channel>
+  <channel id="Taraf TV HD">
+    <display-name lang="ro">Taraf TV HD</display-name>
+    <url>http://www.cinemagia.ro</url>
+  </channel>
+  <channel id="M4 Sport HD">
+    <display-name lang="ro">M4 Sport HD</display-name>
+    <url>http://www.cinemagia.ro</url>
+  </channel>
+  <channel id="RTL KETTŐ HD">
+    <display-name lang="ro">RTL KETTŐ HD</display-name>
+    <url>http://www.cinemagia.ro</url>
+  </channel>
+  <channel id="RTL HÁROM HD">
+    <display-name lang="ro">RTL HÁROM HD</display-name>
+    <url>http://www.cinemagia.ro</url>
+  </channel>
+  <channel id="TV Paprika HD">
+    <display-name lang="ro">TV Paprika HD</display-name>
+    <url>http://www.cinemagia.ro</url>
+  </channel>
+  <channel id="PRO TV HD">
+    <display-name lang="ro">PRO TV HD</display-name>
+    <url>http://www.cinemagia.ro</url>
+  </channel>
+  <channel id="TVR 1 HD">
+    <display-name lang="ro">TVR 1 HD</display-name>
+    <url>http://www.cinemagia.ro</url>
+  </channel>
+  <channel id="Prima TV HD">
+    <display-name lang="ro">Prima TV HD</display-name>
+    <url>http://www.cinemagia.ro</url>
+  </channel>
+  <channel id="HBO 2 HD">
+    <display-name lang="ro">HBO 2 HD</display-name>
+    <url>http://www.cinemagia.ro</url>
+  </channel>
+  <channel id="HBO HD">
+    <display-name lang="ro">HBO HD</display-name>
+    <url>http://www.cinemagia.ro</url>
+  </channel>
+  <channel id="TVR 2 HD">
+    <display-name lang="ro">TVR 2 HD</display-name>
+    <url>http://www.cinemagia.ro</url>
+  </channel>
+  <channel id="24 Mix Teleshop HD">
+    <display-name lang="ro">24 Mix Teleshop HD</display-name>
+    <url>http://www.cinemagia.ro</url>
+  </channel>
+  <channel id="AMC HD">
+    <display-name lang="ro">AMC HD</display-name>
+    <url>http://www.cinemagia.ro</url>
+  </channel>
+  <channel id="Antena Stars HD">
+    <display-name lang="ro">Antena Stars HD</display-name>
+    <url>http://www.cinemagia.ro</url>
+  </channel>
+  <channel id="auto motor und sport channel HD">
+    <display-name lang="ro">auto motor und sport channel HD</display-name>
+    <url>http://www.cinemagia.ro</url>
+  </channel>
+  <channel id="AXN HD">
+    <display-name lang="ro">AXN HD</display-name>
+    <url>http://www.cinemagia.ro</url>
+  </channel>
+  <channel id="BBC Earth HD">
+    <display-name lang="ro">BBC Earth HD</display-name>
+    <url>http://www.cinemagia.ro</url>
+  </channel>
+  <channel id="BBC News HD">
+    <display-name lang="ro">BBC News HD</display-name>
+    <url>http://www.cinemagia.ro</url>
+  </channel>
+  <channel id="Cinemax 2 HD">
+    <display-name lang="ro">Cinemax 2 HD</display-name>
+    <url>http://www.cinemagia.ro</url>
+  </channel>
+  <channel id="Cinemax HD">
+    <display-name lang="ro">Cinemax HD</display-name>
+    <url>http://www.cinemagia.ro</url>
+  </channel>
+  <channel id="Comedy Central HD">
+    <display-name lang="ro">Comedy Central HD</display-name>
+    <url>http://www.cinemagia.ro</url>
+  </channel>
+  <channel id="Digi Animal World HD">
+    <display-name lang="ro">Digi Animal World HD</display-name>
+    <url>http://www.cinemagia.ro</url>
+  </channel>
+  <channel id="Digi Life HD">
+    <display-name lang="ro">Digi Life HD</display-name>
+    <url>http://www.cinemagia.ro</url>
+  </channel>
+  <channel id="Digi Sport 1 HD">
+    <display-name lang="ro">Digi Sport 1 HD</display-name>
+    <url>http://www.cinemagia.ro</url>
+  </channel>
+  <channel id="Digi Sport 2 HD">
+    <display-name lang="ro">Digi Sport 2 HD</display-name>
+    <url>http://www.cinemagia.ro</url>
+  </channel>
+  <channel id="Digi Sport 3 HD">
+    <display-name lang="ro">Digi Sport 3 HD</display-name>
+    <url>http://www.cinemagia.ro</url>
+  </channel>
+  <channel id="Digi World HD">
+    <display-name lang="ro">Digi World HD</display-name>
+    <url>http://www.cinemagia.ro</url>
+  </channel>
+  <channel id="DocuBox HD">
+    <display-name lang="ro">DocuBox HD</display-name>
+    <url>http://www.cinemagia.ro</url>
+  </channel>
+  <channel id="Duck TV HD">
+    <display-name lang="ro">Duck TV HD</display-name>
+    <url>http://www.cinemagia.ro</url>
+  </channel>
+  <channel id="E! Entertainment HD">
+    <display-name lang="ro">E! Entertainment HD</display-name>
+    <url>http://www.cinemagia.ro</url>
+  </channel>
+  <channel id="EMI TV HD">
+    <display-name lang="ro">EMI TV HD</display-name>
+    <url>http://www.cinemagia.ro</url>
+  </channel>
+  <channel id="Eurosport 1 HD">
+    <display-name lang="ro">Eurosport 1 HD</display-name>
+    <url>http://www.cinemagia.ro</url>
+  </channel>
+  <channel id="Eurosport 2 HD">
+    <display-name lang="ro">Eurosport 2 HD</display-name>
+    <url>http://www.cinemagia.ro</url>
+  </channel>
+  <channel id="Exploris TV">
+    <display-name lang="ro">Exploris TV</display-name>
+    <url>http://www.cinemagia.ro</url>
+  </channel>
+  <channel id="Fashion Box HD">
+    <display-name lang="ro">Fashion Box HD</display-name>
+    <url>http://www.cinemagia.ro</url>
+  </channel>
+  <channel id="Fashion TV HD">
+    <display-name lang="ro">Fashion TV HD</display-name>
+    <url>http://www.cinemagia.ro</url>
+  </channel>
+  <channel id="Fight Box HD">
+    <display-name lang="ro">Fight Box HD</display-name>
+    <url>http://www.cinemagia.ro</url>
+  </channel>
+  <channel id="Film Now HD">
+    <display-name lang="ro">Film Now HD</display-name>
+    <url>http://www.cinemagia.ro</url>
+  </channel>
+  <channel id="FilmBox Extra HD">
+    <display-name lang="ro">FilmBox Extra HD</display-name>
+    <url>http://www.cinemagia.ro</url>
+  </channel>
+  <channel id="Food Network HD">
+    <display-name lang="ro">Food Network HD</display-name>
+    <url>http://www.cinemagia.ro</url>
+  </channel>
+  <channel id="Fuel TV HD">
+    <display-name lang="ro">Fuel TV HD</display-name>
+    <url>http://www.cinemagia.ro</url>
+  </channel>
+  <channel id="FunBox UHD">
+    <display-name lang="ro">FunBox UHD</display-name>
+    <url>http://www.cinemagia.ro</url>
+  </channel>
+  <channel id="HBO 3 HD">
+    <display-name lang="ro">HBO 3 HD</display-name>
+    <url>http://www.cinemagia.ro</url>
+  </channel>
+  <channel id="History HD">
+    <display-name lang="ro">History HD</display-name>
+    <url>http://www.cinemagia.ro</url>
+  </channel>
+  <channel id="ID Investigation Discovery HD">
+    <display-name lang="ro">ID Investigation Discovery HD</display-name>
+    <url>http://www.cinemagia.ro</url>
+  </channel>
+  <channel id="Kanal D HD">
+    <display-name lang="ro">Kanal D HD</display-name>
+    <url>http://www.cinemagia.ro</url>
+  </channel>
+  <channel id="Prima Sport 1 HD">
+    <display-name lang="ro">Prima Sport 1 HD</display-name>
+    <url>http://www.cinemagia.ro</url>
+  </channel>
+  <channel id="Prima Sport 2 HD">
+    <display-name lang="ro">Prima Sport 2 HD</display-name>
+    <url>http://www.cinemagia.ro</url>
+  </channel>
+  <channel id="Prima Sport 3 HD">
+    <display-name lang="ro">Prima Sport 3 HD</display-name>
+    <url>http://www.cinemagia.ro</url>
+  </channel>
+  <channel id="Prima Sport 4 HD">
+    <display-name lang="ro">Prima Sport 4 HD</display-name>
+    <url>http://www.cinemagia.ro</url>
+  </channel>
+  <channel id="Prima Sport 5 HD">
+    <display-name lang="ro">Prima Sport 5 HD</display-name>
+    <url>http://www.cinemagia.ro</url>
+  </channel>
+  <channel id="Magic TV HD">
+    <display-name lang="ro">Magic TV HD</display-name>
+    <url>http://www.cinemagia.ro</url>
+  </channel>
+  <channel id="Mezzo Live HD">
+    <display-name lang="ro">Mezzo Live HD</display-name>
+    <url>http://www.cinemagia.ro</url>
+  </channel>
+  <channel id="Motorvision+ HD">
+    <display-name lang="ro">Motorvision+ HD</display-name>
+    <url>http://www.cinemagia.ro</url>
+  </channel>
+  <channel id="MTV Live HD">
+    <display-name lang="ro">MTV Live HD</display-name>
+    <url>http://www.cinemagia.ro</url>
+  </channel>
+  <channel id="MyZen HD">
+    <display-name lang="ro">MyZen HD</display-name>
+    <url>http://www.cinemagia.ro</url>
+  </channel>
+  <channel id="Nat Geo People HD">
+    <display-name lang="ro">Nat Geo People HD</display-name>
+    <url>http://www.cinemagia.ro</url>
+  </channel>
+  <channel id="National Geographic HD">
+    <display-name lang="ro">National Geographic HD</display-name>
+    <url>http://www.cinemagia.ro</url>
+  </channel>
+  <channel id="National Geographic Wild HD">
+    <display-name lang="ro">National Geographic Wild HD</display-name>
+    <url>http://www.cinemagia.ro</url>
+  </channel>
+  <channel id="Nickelodeon HD">
+    <display-name lang="ro">Nickelodeon HD</display-name>
+    <url>http://www.cinemagia.ro</url>
+  </channel>
+  <channel id="Party Mix HD">
+    <display-name lang="ro">Party Mix HD</display-name>
+    <url>http://www.cinemagia.ro</url>
+  </channel>
+  <channel id="Acasa HD">
+    <display-name lang="ro">Acasa HD</display-name>
+    <url>http://www.cinemagia.ro</url>
+  </channel>
+  <channel id="Pro Arena HD">
+    <display-name lang="ro">Pro Arena HD</display-name>
+    <url>http://www.cinemagia.ro</url>
+  </channel>
+  <channel id="Rock TV HD">
+    <display-name lang="ro">Rock TV HD</display-name>
+    <url>http://www.cinemagia.ro</url>
+  </channel>
+  <channel id="RTL HU HD">
+    <display-name lang="ro">RTL HU HD</display-name>
+    <url>http://www.cinemagia.ro</url>
+  </channel>
+  <channel id="Stingray iConcerts HD">
+    <display-name lang="ro">Stingray iConcerts HD</display-name>
+    <url>http://www.cinemagia.ro</url>
+  </channel>
+  <channel id="The Fishing &amp; Hunting Channel HD">
+    <display-name lang="ro">The Fishing &amp; Hunting Channel HD</display-name>
+    <url>http://www.cinemagia.ro</url>
+  </channel>
+  <channel id="Warner TV HD">
+    <display-name lang="ro">Warner TV HD</display-name>
+    <url>http://www.cinemagia.ro</url>
+  </channel>
+  <channel id="Trace Caribbean">
+    <display-name lang="ro">Trace Caribbean</display-name>
+    <url>http://www.cinemagia.ro</url>
+  </channel>
+  <channel id="TRACE Sport Stars HD">
+    <display-name lang="ro">TRACE Sport Stars HD</display-name>
+    <url>http://www.cinemagia.ro</url>
+  </channel>
+  <channel id="Trace Urban HD">
+    <display-name lang="ro">Trace Urban HD</display-name>
+    <url>http://www.cinemagia.ro</url>
+  </channel>
+  <channel id="Travel Channel HD">
+    <display-name lang="ro">Travel Channel HD</display-name>
+    <url>http://www.cinemagia.ro</url>
+  </channel>
+  <channel id="UTV HD">
+    <display-name lang="ro">UTV HD</display-name>
+    <url>http://www.cinemagia.ro</url>
+  </channel>
+  <channel id="B1 TV HD">
+    <display-name lang="ro">B1 TV HD</display-name>
+    <url>http://www.cinemagia.ro</url>
+  </channel>
+  <channel id="Digi Sport 4 HD">
+    <display-name lang="ro">Digi Sport 4 HD</display-name>
+    <url>http://www.cinemagia.ro</url>
+  </channel>
+  <channel id="Etno TV HD">
+    <display-name lang="ro">Etno TV HD</display-name>
+    <url>http://www.cinemagia.ro</url>
+  </channel>
+  <channel id="Kanal D2 HD">
+    <display-name lang="ro">Kanal D2 HD</display-name>
+    <url>http://www.cinemagia.ro</url>
+  </channel>
+  <channel id="Metropola TV HD">
+    <display-name lang="ro">Metropola TV HD</display-name>
+    <url>http://www.cinemagia.ro</url>
+  </channel>
+  <channel id="Travelxp HD">
+    <display-name lang="ro">Travelxp HD</display-name>
+    <url>http://www.cinemagia.ro</url>
+  </channel>
+  <channel id="TV2 HD">
+    <display-name lang="ro">TV2 HD</display-name>
+    <url>http://www.cinemagia.ro</url>
+  </channel>
+  <channel id="Blue Hustler">
+    <display-name lang="ro">Blue Hustler</display-name>
+    <url>http://www.cinemagia.ro</url>
+  </channel>
+  <channel id="Brazzers TV Europe">
+    <display-name lang="ro">Brazzers TV Europe</display-name>
+    <url>http://www.cinemagia.ro</url>
+  </channel>
+  <channel id="Dorcel TV">
+    <display-name lang="ro">Dorcel TV</display-name>
+    <url>http://www.cinemagia.ro</url>
+  </channel>
+  <channel id="Erox HD">
+    <display-name lang="ro">Erox HD</display-name>
+    <url>http://www.cinemagia.ro</url>
+  </channel>
+  <channel id="Eroxxx HD">
+    <display-name lang="ro">Eroxxx HD</display-name>
+    <url>http://www.cinemagia.ro</url>
+  </channel>
+  <channel id="Hustler HD">
+    <display-name lang="ro">Hustler HD</display-name>
+    <url>http://www.cinemagia.ro</url>
+  </channel>
+  <channel id="Hustler TV">
+    <display-name lang="ro">Hustler TV</display-name>
+    <url>http://www.cinemagia.ro</url>
+  </channel>
+  <channel id="Playboy TV">
+    <display-name lang="ro">Playboy TV</display-name>
+    <url>http://www.cinemagia.ro</url>
+  </channel>
+  <channel id="Private TV">
+    <display-name lang="ro">Private TV</display-name>
+    <url>http://www.cinemagia.ro</url>
+  </channel>
+  <channel id="Redlight HD">
+    <display-name lang="ro">Redlight HD</display-name>
+    <url>http://www.cinemagia.ro</url>
+  </channel>
+  <channel id="SuperOne HD">
+    <display-name lang="ro">SuperOne HD</display-name>
+    <url>http://www.cinemagia.ro</url>
+  </channel>
+  <channel id="Penthouse Gold">
+    <display-name lang="ro">Penthouse Gold</display-name>
+    <url>http://www.cinemagia.ro</url>
+  </channel>
+  <programme start="20241204070000 +0200" stop="20241204103000 +0200" channel="PRO TV">
+    <title lang="ro">Ştirile Pro Tv</title>
+    <desc lang="ro">Știri de ultimă oră din țară și externe. Urmărește transmisiuni live, breaking news, reportaje și anchete.(n)</desc>
+  </programme>
+  <programme start="20241204103000 +0200" stop="20241204130000 +0200" channel="PRO TV">
+    <title lang="ro">Vorbeşte lumea</title>
+    <desc lang="ro">Emisiunea abordează într-un ton vesel și optimist subiecte precum modă, frumusețe, sănătate, cooking sau parenting. Fiecare emisiune aduce în platou invitați din lumea mondenă, vedete și celebrități, artiști, dar și personalități publice și din sfera medicală sau culturală.(n)</desc>
+  </programme>
+  <programme start="20241204130000 +0200" stop="20241204140000 +0200" channel="PRO TV">
+    <title lang="ro">Ştirile Pro Tv</title>
+    <desc lang="ro">Știri de ultimă oră din țară și externe. Urmărește transmisiuni live, breaking news, reportaje și anchete.(n)</desc>
+  </programme>
+  <programme start="20241204140000 +0200" stop="20241204150000 +0200" channel="PRO TV">
+    <title lang="ro">Lecţii de viaţă</title>
+    <desc lang="ro">O emisiune care prezintă diverse situații inspirate din viața reală a familiilor, în care se va pune accent pe povești de iubire, dorință, lăcomie, minciună sau violență. Fiecare episod va ilustra probleme și întâmplări des întâlnite în viața cotidiană. Acest program este o ficțiune.(n)</desc>
+  </programme>
+  <programme start="20241204150000 +0200" stop="20241204170000 +0200" channel="PRO TV">
+    <title lang="ro">La Maruţă</title>
+    <desc lang="ro">O emisiune de divertisment în care telespectatorii se pot delecta cu invitați din lumea mondenă, vedete și celebrități, artiști, personalități publice și nu numai. Nu lipsesc nici concursurile, competițiile și farsele, tonul emisiunii fiind unul vesel și energic.(n)</desc>
+  </programme>
+  <programme start="20241204170000 +0200" stop="20241204180000 +0200" channel="PRO TV">
+    <title lang="ro">Ştirile Pro Tv</title>
+    <desc lang="ro">Știri de ultimă oră din țară și externe. Urmărește transmisiuni live, breaking news, reportaje și anchete.(n)</desc>
+  </programme>
+  <programme start="20241204180000 +0200" stop="20241204190000 +0200" channel="PRO TV">
+    <title lang="ro">Batem palma?</title>
+    <desc lang="ro">PRO TV prezintă un format care testează norocul și intuiția concurenților. Emisiunea Batem Palma? îl are ca prezentator pe îndrăgitul om de televiziune, Cosmin Seleși. Scopul fiecărei ediții este ca un concurent să plece acasă cu o sumă cât mai mare, deschizând pe parcurs 24 de cutii misterioase existente în joc. Sumele variază și în funcție de prestația concurentului pe parcusul showului. Un alt element surpriză este banca. Parcursul unui concurent se încheie în momentul în care acesta alege să bată palma și acceptă una dintre ofertele băncii.(n)</desc>
+  </programme>
+  <programme start="20241204190000 +0200" stop="20241204203000 +0200" channel="PRO TV">
+    <title lang="ro">Ştirile Pro Tv</title>
+    <desc lang="ro">Știri de ultimă oră din țară și externe. Urmărește transmisiuni live, breaking news, reportaje și anchete.(n)</desc>
+  </programme>
+  <programme start="20241204203000 +0200" stop="20241204213000 +0200" channel="PRO TV">
+    <title lang="ro">Las fierbinți</title>
+  </programme>
+  <programme start="20241204213000 +0200" stop="20241204233000 +0200" channel="PRO TV">
+    <title lang="ro">Visuri la cheie</title>
+    <desc lang="ro">ProTV duce entertainmentul la urmatorul nivel si lanseaza din octombrie inca o emisiune-eveniment! 
+Emsiunea difuzata incepand cu luna octombrie in fiecare miercuri, de la ora 20:30, il va avea drept gazda pe indragitul actor Dragos Bucur, care va fi mesagerul sperantei si va avea nobila misiune de a prezenta povestile de viata adevarate din spatele fiecarei editii, de a trai emotiile familiilor ce urmeaza sa fie ajutate si de a aduce zambetul pe chipul acestora.
+Alaturi de o echipa de specialisti formata din arhitecti, designeri de interior, constructori si voluntari, Dragos va ajuta familiile aflate in necaz sa aiba un trai mai bun, oferindu-le locuintele de care au nevoie si pe care le viseaza. Acest ajutor nu le va oferi doar o noua locuinta in care sa poata trai linistiti, ci le va schimba complet modul de viata si le va deschide calea catre noi visuri.(n)</desc>
+  </programme>
+  <programme start="20241204233000 +0200" stop="20241205000000 +0200" channel="PRO TV">
+    <title lang="ro">Ştirile Pro Tv</title>
+    <desc lang="ro">Știri de ultimă oră din țară și externe. Urmărește transmisiuni live, breaking news, reportaje și anchete.(n)</desc>
+  </programme>
+  <programme start="20241204080000 +0200" stop="20241204120000 +0200" channel="Antena 1">
+    <title lang="ro">Neatza cu Răzvan şi Dani</title>
+    <desc lang="ro">Emisiunea în care te pui la curent cu cele mai interesante și de actualitate subiecte ale dimineții. Meteo, rețete, ultimele piese muzicale sau ultimele sfaturi practice, ai totul pentru a-ți începe ziua cu zâmbetul pe buze.(n)</desc>
+  </programme>
+  <programme start="20241204120000 +0200" stop="20241204140000 +0200" channel="Antena 1">
+    <title lang="ro">Observator</title>
+    <desc lang="ro">Ştiri, reportaje, anchete, informaţii utile şi de ultimă oră. Fii observator!(n)</desc>
+  </programme>
+  <programme start="20241204140000 +0200" stop="20241204170000 +0200" channel="Antena 1">
+    <title lang="ro">Mireasa – Iubire de 10 cu Simona Gherghe</title>
+    <desc lang="ro">Mireasa este una dintre cele mai longevive emisiuni matrimoniale din România.
+Opt fete și opt băieți vor începe un nou capitol în viața lor. Cu toții vor petrece luni buni împreună, iar cei mai norocoși vor reuși să clădească relații de durată.
+La fel ca în sezonul anterior, publicul poate urmări în continuare, 24 de ore din 24 de ore, imagini din casele concurenților.(n)</desc>
+  </programme>
+  <programme start="20241204170000 +0200" stop="20241204180000 +0200" channel="Antena 1">
+    <title lang="ro">Observator</title>
+    <desc lang="ro">Ştiri, reportaje, anchete, informaţii utile şi de ultimă oră. Fii observator!(n)</desc>
+  </programme>
+  <programme start="20241204180000 +0200" stop="20241204190000 +0200" channel="Antena 1">
+    <title lang="ro">Ești mai deștept decât un copil de clasa a V-a?</title>
+    <desc lang="ro">“Ești mai deștept decât un copil de clasa a V-a?“ este un show de divertisment pentru întreaga familie, din care nu lipsesc concurenţi cu poveşti deosebite, copii isteţi şi carismatici, întrebări menite să stârnească interes şi curiozitate, potenţate de momente deopotrivă tensionate şi emoţionante. Andrei Aradits, prezentatorul quiz show-ului, pune la dispoziţia concurentului 10 materii cu grad variabil de dificultate, de la clasa a I-a , până la clasa a V-a. Acesta poate cere ajutorul celor cinci copii prezenţi în platou, prin intermediul variantelor ajutătoare: COPIAZĂ - concurentul va copia răspunsul copilului, TRAGE CU OCHIUL - concurentul are opțiunea de a se inspira de la copil și de a alege dacă va merge pe varianta acestuia sau pe propriul răspuns sau SALVEAZĂ-MĂ - dacă jucătorul răspunde greșit și copilul corect, acesta este salvat și rămâne în joc. În cazul în care răspunde greșit sau se retrage, concurentul trebuie să spună spre cameră “Nu sunt mai deștept decât un copil de clasa a V-a!“.(n)</desc>
+  </programme>
+  <programme start="20241204190000 +0200" stop="20241204203000 +0200" channel="Antena 1">
+    <title lang="ro">Observator</title>
+    <desc lang="ro">Ştiri, reportaje, anchete, informaţii utile şi de ultimă oră. Fii observator!(n)</desc>
+  </programme>
+  <programme start="20241204203000 +0200" stop="20241205000000 +0200" channel="Antena 1">
+    <title lang="ro">Chefi la cuțite</title>
+    <desc lang="ro">Trei chefi de top, aflați în competiție pentru a găsi următoarea generație de talente desăvârșite în domeniul culinar, jurizează cele mai gustoase și originale rețete, în timp ce își ascut cuțitele pentru o confruntare culinară de-a dreptul savuroasă.(n)</desc>
+  </programme>
+  <programme start="20241204070000 +0200" stop="20241204094500 +0200" channel="TVR 1">
+    <title lang="ro">Telejurnal matinal</title>
+    <desc lang="ro">Pe TVR1, la Telejurnalul matinal, primele cinci zile ale săptămânii încep în forţă, printr-un program cu subiecte ample şi ştiri hard, alternate cu informatii utilitare şi rubrici atipice pentru un buletin de ştiri.(n)</desc>
+  </programme>
+  <programme start="20241204094500 +0200" stop="20241204100000 +0200" channel="TVR 1">
+    <title lang="ro">Teleshopping</title>
+  </programme>
+  <programme start="20241204100000 +0200" stop="20241204110000 +0200" channel="TVR 1">
+    <title lang="ro">Agrostrategia</title>
+    <desc lang="ro">Producator Vlad Macovei
+
+Sezon nou.(n)</desc>
+  </programme>
+  <programme start="20241204110000 +0200" stop="20241204120000 +0200" channel="TVR 1">
+    <title lang="ro">Omul anului</title>
+    <desc lang="ro">Producator Oana Turcu
+Coordonator campanie Nicolae Cozma 
+ 
+ (Reluare).(n)</desc>
+  </programme>
+  <programme start="20241204120000 +0200" stop="20241204123000 +0200" channel="TVR 1">
+    <title lang="ro">Teleshopping</title>
+  </programme>
+  <programme start="20241204123000 +0200" stop="20241204130000 +0200" channel="TVR 1">
+    <title lang="ro">Tu votezi România!</title>
+    <desc lang="ro">* Promovare electorală alegeri prezidenţiale tur 2
+Producător Emilia Rădină.(n)</desc>
+  </programme>
+  <programme start="20241204130000 +0200" stop="20241204135500 +0200" channel="TVR 1">
+    <title lang="ro">Oamenii şi legea</title>
+    <desc lang="ro">* Emisiune de educaţie juridică
+Moderator av. Mihaela Olaru
+ „Oamenii si legea” contine informatii utile şi practice, aplicate pe problemele cu care se confruntă cei care ne urmăresc, un mijloc de informare pentru toti cetatenii care trebuie sa-si cunoască drepturile si libertatile, un ajutor in a descifra si a intelege orice act normativ precum si aflarea noutatilor legislative.
+Jurnalişti Tv: Raluca Amzăr, Liliana Vaduva.
+Producător Mihaela Grecu Grădinaru 
+
+Înregistrare
+Sezon nou.(n)</desc>
+  </programme>
+  <programme start="20241204135500 +0200" stop="20241204140000 +0200" channel="TVR 1">
+    <title lang="ro">Vorbeşte corect!</title>
+    <desc lang="ro">„Vorbeşte corect!” este cel mai longeviv proiect de televiziune dedicat limbii române. În 2024 se împlinesc 25 de ani de la debutul proiectului original „Corect”, prima emisiune-concurs de limbă română din mass-media românească.
+Producători şi realizatori : Cristina Dănilă şi Radu Dănilă 
+Sezon nou.(n)</desc>
+  </programme>
+  <programme start="20241204140000 +0200" stop="20241204145500 +0200" channel="TVR 1">
+    <title lang="ro">Telejurnal</title>
+    <desc lang="ro">Află ce s-a întâmplat relevant pentru viaţa ta, în ţară şi în lume, de la Telejurnal. În fiecare zi, pe TVR 1, la ora 14:00 şi seara, de la ora 20.00, Telejurnalul îţi oferă un pachet informativ complet, care conţine ştiri, analize şi dezbateri.(n)</desc>
+  </programme>
+  <programme start="20241204145500 +0200" stop="20241204150000 +0200" channel="TVR 1">
+    <title lang="ro">Zi de zi cu părintele Constantin Necula</title>
+    <desc lang="ro">. 
+Producător Victor Dochia.(n)</desc>
+  </programme>
+  <programme start="20241204150000 +0200" stop="20241204160000 +0200" channel="TVR 1">
+    <title lang="ro">Convieţuiri</title>
+    <desc lang="ro">(I)Prezentator George Lungoci
+ ​Producatori: Teodora Drăgoi şi Boris Velimirovici.(n)</desc>
+  </programme>
+  <programme start="20241204160000 +0200" stop="20241204165500 +0200" channel="TVR 1">
+    <title lang="ro">Convieţuiri</title>
+    <desc lang="ro">(II) Prezentator George Lungoci
+Producatori: Teodora Drăgoi şi Boris Velimirovici.(n)</desc>
+  </programme>
+  <programme start="20241204165500 +0200" stop="20241204181500 +0200" channel="TVR 1">
+    <title lang="ro">Fiica regelui</title>
+  </programme>
+  <programme start="20241204181500 +0200" stop="20241204194500 +0200" channel="TVR 1">
+    <title lang="ro">Punctul critic</title>
+    <desc lang="ro">* Dezbatere electorală alegeri prezidenţiale tur 2
+Moderatori: Ramona Avramescu, Marian Voicu
+Realizator Raluca Neagu
+Jurnalişti: Dana Rusu, Delia Apostol
+Producator Florenţa Dăscălescu. 
+Transmisiune directa.(n)</desc>
+  </programme>
+  <programme start="20241204194500 +0200" stop="20241204200000 +0200" channel="TVR 1">
+    <title lang="ro">Sport</title>
+  </programme>
+  <programme start="20241204200000 +0200" stop="20241204205500 +0200" channel="TVR 1">
+    <title lang="ro">Telejurnal</title>
+    <desc lang="ro">Află ce s-a întâmplat relevant pentru viaţa ta, în ţară şi în lume, de la Telejurnal. În fiecare zi, pe TVR 1, la ora 14:00 şi seara, de la ora 20.00, Telejurnalul îţi oferă un pachet informativ complet, care conţine ştiri, analize şi dezbateri.(n)</desc>
+  </programme>
+  <programme start="20241204205500 +0200" stop="20241204210000 +0200" channel="TVR 1">
+    <title lang="ro">Meteo</title>
+  </programme>
+  <programme start="20241204210000 +0200" stop="20241204233500 +0200" channel="TVR 1">
+    <title lang="ro">Campanie TVR - România face bine!</title>
+    <desc lang="ro">România face bine! * Moderatori:Mihaela Crăciun si Cristian Tabără.
+ *În ultimii 35 de ani, România a parcurs un drum plin de transformări, iar televiziunea publică a fost martoră a acestora.
+Campania "ROMÂNIA FACE BINE" își propune să analizeze acest parcurs, evidențiind rolul crucial al televiziunii, punând în lumină progresul și provocările întâmpinate de-a lungul a trei decenii și jumătate de libertate.
+Campania va acoperi întreg teritoriul național, asigurându-se că fiecare regiune este reprezentată și că vocea comunităților locale este auzită.
+Jurnalisti : Vanda Liche, Cristina Radulescu, Raluca Rogojina
+Director de imagine Bogdan Marincov
+Regia artistica Aurel Badea
+Producatori: Aimee D’Albon , Ruxandra Tuchel
+Un proiect de Dorotheea Ionescu
+O productie a Redactiei Teatru-Film
+Transmisiune directă
+Premiera.(n)</desc>
+  </programme>
+  <programme start="20241204233500 +0200" stop="20241205000500 +0200" channel="TVR 1">
+    <title lang="ro">Vis sau realitate?</title>
+    <desc lang="ro">Prezintă Sebastian Felix Topescu 
+Producător Luiza Caravasile 
+ 
+ (Reluare).(n)</desc>
+  </programme>
+  <programme start="20241204070000 +0200" stop="20241204090000 +0200" channel="Prima TV">
+    <title lang="ro">Exclusiv VIP</title>
+    <desc lang="ro">Lumea mondenă îşi deschide larg uşile şi îi invită în culisele ei pe telespectatorii Prima TV. Moderatorul emisiunii este pregătit să îi descoasă pe invitaţi şi să le afle toate secretele. Exclusivităţi, momente emoţionante, discuţii între prieteni, voie bună şi relaxare!(n)</desc>
+  </programme>
+  <programme start="20241204090000 +0200" stop="20241204110300 +0200" channel="Prima TV">
+    <title lang="ro">Benny Hill Show</title>
+  </programme>
+  <programme start="20241204110300 +0200" stop="20241204131000 +0200" channel="Prima TV">
+    <title lang="ro">Teleshopping</title>
+  </programme>
+  <programme start="20241204131000 +0200" stop="20241204140000 +0200" channel="Prima TV">
+    <title lang="ro">Iubiri vinovate</title>
+  </programme>
+  <programme start="20241204140000 +0200" stop="20241204160000 +0200" channel="Prima TV">
+    <title lang="ro">Focus</title>
+    <desc lang="ro">Emisiunea Focus este setată pe ştiri relevante pentru fiecare, pe informaţia esenţială, corectă şi obiectivă, pe poveşti şi fapte generatoare de plus-valoare în societate.(n)</desc>
+  </programme>
+  <programme start="20241204160000 +0200" stop="20241204180000 +0200" channel="Prima TV">
+    <title lang="ro">Exclusiv VIP</title>
+    <desc lang="ro">Lumea mondenă îşi deschide larg uşile şi îi invită în culisele ei pe telespectatorii Prima TV. Moderatorul emisiunii este pregătit să îi descoasă pe invitaţi şi să le afle toate secretele. Exclusivităţi, momente emoţionante, discuţii între prieteni, voie bună şi relaxare!(n)</desc>
+  </programme>
+  <programme start="20241204180000 +0200" stop="20241204193000 +0200" channel="Prima TV">
+    <title lang="ro">Focus 18</title>
+    <desc lang="ro">La Focus 18, cel mai important jurnal de stiri, telespectatorii pot urmări, in fiecare zi, atât materiale în exclusivitate, cât şi rubrici dedicate sau reportaje speciale.(n)</desc>
+  </programme>
+  <programme start="20241204193000 +0200" stop="20241204200000 +0200" channel="Prima TV">
+    <title lang="ro">Flash monden</title>
+    <desc lang="ro">Emisiunea îți prezintă subiecte la zi, informații și imagini de ultim moment, dar și povești în premieră, despre celebritățile autohtone și internaționale. Specialiștii emisiunii comentează ținutele vedetelor iar astrologul de serviciu îți spune ce îți rezervă astrele pentru fiecare zi din săptămână.(n)</desc>
+  </programme>
+  <programme start="20241204200000 +0200" stop="20241204220000 +0200" channel="Prima TV">
+    <title lang="ro">Cronica cârcotaşilor</title>
+    <desc lang="ro">Emisiunea Cronica cârcotaşilor prezintă o variantă unică a celor mai importante noutăţi din domeniul politic, social, cultural sau economic. Telespectatorii vor mai afla şi cum stau românii la capitolul cultură generală prin rubrica “Vocea Poporului”, iar “Top Ruşinică” face clasamentul binecunoscut al gafelor din televiziuni.(n)</desc>
+  </programme>
+  <programme start="20241204220000 +0200" stop="20241204233000 +0200" channel="Prima TV">
+    <title lang="ro">Focus</title>
+    <desc lang="ro">Emisiunea Focus este setată pe ştiri relevante pentru fiecare, pe informaţia esenţială, corectă şi obiectivă, pe poveşti şi fapte generatoare de plus-valoare în societate.(n)</desc>
+  </programme>
+  <programme start="20241204233000 +0200" stop="20241205013000 +0200" channel="Prima TV">
+    <title lang="ro">Exclusiv VIP</title>
+    <desc lang="ro">Lumea mondenă îşi deschide larg uşile şi îi invită în culisele ei pe telespectatorii Prima TV. Moderatorul emisiunii este pregătit să îi descoasă pe invitaţi şi să le afle toate secretele. Exclusivităţi, momente emoţionante, discuţii între prieteni, voie bună şi relaxare!(n)</desc>
+  </programme>
+  <programme start="20241204070000 +0200" stop="20241204080000 +0200" channel="Kanal D">
+    <title lang="ro">În căutarea adevărului</title>
+    <desc lang="ro">“În căutarea adevărului” prezintă o serie de dramatizări realiste care vor aduce în atenția publicului situații pe care fiecare dintre noi le-ar putea experimenta. După ce a fost considerat un adevarat detectiv, Ernest va fi atât naratorul, cât și mediatorul conflictelor din fiecare episod.(n)</desc>
+  </programme>
+  <programme start="20241204080000 +0200" stop="20241204100000 +0200" channel="Kanal D">
+    <title lang="ro">Follow us</title>
+    <desc lang="ro">Show-ul prezinta informaţie proaspătă, din domenii diverse, de interes pentru publicul larg, precum şi dezvăluiri din showbiz.(n)</desc>
+  </programme>
+  <programme start="20241204100000 +0200" stop="20241204120000 +0200" channel="Kanal D">
+    <title lang="ro">Casa iubirii</title>
+    <desc lang="ro">14 concurenţi, 7 fete şi 7 baieti, vor intra în Casa iubirii pentru a-şi găsi dragostea, iar Andreea Mantea le va fi alături pe tot parcursul show-ului, ghidându-i cu empatie, pe drumul sinuos al descoperirii de sine şi a celuilalt. La capătul acestei experienţe cu totul speciale vor exista doi câştigători, o fată şi un băiat, fiecare dintre aceştia intrand în posesia premiului de 10.000 de Euro.(n)</desc>
+  </programme>
+  <programme start="20241204120000 +0200" stop="20241204130000 +0200" channel="Kanal D">
+    <title lang="ro">Știrile Kanal D</title>
+    <desc lang="ro">Știrile Kanal D conectează zi de zi telespectatorii la realitățile sociale, economice, politice și mondene, din perspectiva omului și pentru omul obișnuit.(n)</desc>
+  </programme>
+  <programme start="20241204130000 +0200" stop="20241204150000 +0200" channel="Kanal D">
+    <title lang="ro">În căutarea adevărului</title>
+    <desc lang="ro">“În căutarea adevărului” prezintă o serie de dramatizări realiste care vor aduce în atenția publicului situații pe care fiecare dintre noi le-ar putea experimenta. După ce a fost considerat un adevarat detectiv, Ernest va fi atât naratorul, cât și mediatorul conflictelor din fiecare episod.(n)</desc>
+  </programme>
+  <programme start="20241204150000 +0200" stop="20241204163000 +0200" channel="Kanal D">
+    <title lang="ro">Jocul cuvintelor cu Dan Negru</title>
+    <desc lang="ro">În fiecare ediție a emisiunii, 5 concurenți se află față în față cu Dan Negru, pentru a-și testa vocabularul și spontaneitatea. Înțelegerea sensurilor şi uşurinţa de a face conexiunile potrivite sunt acele ingrediente care îi oferă oricărui participant şansa găsirii cuvântului corect. Pentru că Dan Negru dă definiţia, iar concurenţii găsesc soluţia! Participanții “Jocul cuvintelor cu Dan Negru” au la dispoziție 4 minute pentru a afla 14 cuvinte, în urma definițiilor primite chiar de la prezentatorul show-ului. Efortul concurenților va fi răsplătit cu premii importante în bani, dacă aceștia reușesc să afle răspunsurile corecte.(n)</desc>
+  </programme>
+  <programme start="20241204163000 +0200" stop="20241204190000 +0200" channel="Kanal D">
+    <title lang="ro">Casa iubirii</title>
+    <desc lang="ro">14 concurenţi, 7 fete şi 7 baieti, vor intra în Casa iubirii pentru a-şi găsi dragostea, iar Andreea Mantea le va fi alături pe tot parcursul show-ului, ghidându-i cu empatie, pe drumul sinuos al descoperirii de sine şi a celuilalt. La capătul acestei experienţe cu totul speciale vor exista doi câştigători, o fată şi un băiat, fiecare dintre aceştia intrand în posesia premiului de 10.000 de Euro.(n)</desc>
+  </programme>
+  <programme start="20241204190000 +0200" stop="20241204200000 +0200" channel="Kanal D">
+    <title lang="ro">Știrile Kanal D</title>
+    <desc lang="ro">Știrile Kanal D conectează zi de zi telespectatorii la realitățile sociale, economice, politice și mondene, din perspectiva omului și pentru omul obișnuit.(n)</desc>
+  </programme>
+  <programme start="20241204200000 +0200" stop="20241204230000 +0200" channel="Kanal D">
+    <title lang="ro">Inima rebela</title>
+  </programme>
+  <programme start="20241204230000 +0200" stop="20241205010000 +0200" channel="Kanal D">
+    <title lang="ro">The floor</title>
+    <desc lang="ro">"The Floor" este un show menit să antreneze mintea şi apetitul pentru distracţie al romanilor. Cu un mecanism uşor de urmărit şi foarte distractiv pentru întreaga familie, "The Floor" le oferă telespectatorilor posibilitatea să-şi antreneze spontaneitatea şi cunoştinţele în domenii foarte variate, acoperind o gamă extinsă de preocupări, pasiuni, curiozităţi, cunoştinţe.(n)</desc>
+  </programme>
+  <programme start="20241204070000 +0200" stop="20241204083000 +0200" channel="National TV">
+    <title lang="ro">Albumul Naţional</title>
+    <desc lang="ro">Singura emisiune despre folclorul românesc autentic ce poate fi urmărită la o televiziune comercială este prezentată de doi interpreţi populari extrem de cunoscuţi - Cornelia şi Lupu Rednic. Programul are, în fiecare ediţie, invitaţi la fel de populari printre iubitorii de folclor precum prezentatorii, invitaţi care vin din toate zonele ţării pentru a aduce în faţa telespectatorilor obiceiurile, tradiţiile, cântul şi portul specifice regiunii lor.
+
+Albumul Naţional este o pledoarie pentru cântecul şi arta populară autentice, aducând telespectatorul mai aproape de valorile neamului făcându-l totodată să descopere ori să redescopere tradiţiile, istoria şi cântul autentic din zona din care el însuşi provine.(n)</desc>
+  </programme>
+  <programme start="20241204083000 +0200" stop="20241204101500 +0200" channel="National TV">
+    <title lang="ro">Tradiţii de la bunica</title>
+    <desc lang="ro">Gazdele emisiunii ii vor invata pe telespectatori cum sa gateasca sanatos produse traditionale romanesti cu ajutorul unui cuptor modern. In fiecare editie vom urmari pregatirea preparatelor de la inceput si pana la scoaterea lor din cuptor. Asa vom invata sa gatim sanatos, cu produse moderne si cu bani putini, chiar la noi acasa.(n)</desc>
+  </programme>
+  <programme start="20241204101500 +0200" stop="20241204113000 +0200" channel="National TV">
+    <title lang="ro">Don Matteo</title>
+  </programme>
+  <programme start="20241204113000 +0200" stop="20241204124500 +0200" channel="National TV">
+    <title lang="ro">Don Matteo</title>
+  </programme>
+  <programme start="20241204124500 +0200" stop="20241204130000 +0200" channel="National TV">
+    <title lang="ro">Teleshopping</title>
+  </programme>
+  <programme start="20241204130000 +0200" stop="20241204131500 +0200" channel="National TV">
+    <title lang="ro">Ştiri Naţional TV</title>
+    <desc lang="ro">Jurnalele Naţional TV beneficiază de studioul modern, excelent echipat, şi de suportul unor echipe de reporteri şi redactori acoperind geografic întreaga ţară. Contactele externe, jurnalistice, permit o bună acoperire a evenimentelor internaţionale, sociale, politice, economice sau sportive.(n)</desc>
+  </programme>
+  <programme start="20241204131500 +0200" stop="20241204134500 +0200" channel="National TV">
+    <title lang="ro">Baronii</title>
+  </programme>
+  <programme start="20241204134500 +0200" stop="20241204140000 +0200" channel="National TV">
+    <title lang="ro">Vouă</title>
+    <desc lang="ro">Pastilele Vouă încearcă, ediţie de ediţie, să menţină bunul gust al telespectatorilor în materie de umor. În scenetele emisiunii se regăsesc şi locatarul de la bloc, ţăranul dintr-un sat oarecare, familia şi capra vecinului, toţi surprinşi în situaţii cât se poate de reale. Telespectatorii se regăsesc astfel în scenetele grupului şi au impresia că pot fi oricând eroii emisiunii, graţie jocului plin de naturaleţe al celor de la Vouă.(n)</desc>
+  </programme>
+  <programme start="20241204140000 +0200" stop="20241204150000 +0200" channel="National TV">
+    <title lang="ro">Anupamaa</title>
+  </programme>
+  <programme start="20241204150000 +0200" stop="20241204160000 +0200" channel="National TV">
+    <title lang="ro">Dragoste dulce-amară</title>
+  </programme>
+  <programme start="20241204160000 +0200" stop="20241204171500 +0200" channel="National TV">
+    <title lang="ro">Don Matteo</title>
+  </programme>
+  <programme start="20241204171500 +0200" stop="20241204183000 +0200" channel="National TV">
+    <title lang="ro">Don Matteo</title>
+  </programme>
+  <programme start="20241204183000 +0200" stop="20241204190000 +0200" channel="National TV">
+    <title lang="ro">Ştiri Naţional TV</title>
+    <desc lang="ro">Jurnalele Naţional TV beneficiază de studioul modern, excelent echipat, şi de suportul unor echipe de reporteri şi redactori acoperind geografic întreaga ţară. Contactele externe, jurnalistice, permit o bună acoperire a evenimentelor internaţionale, sociale, politice, economice sau sportive.(n)</desc>
+  </programme>
+  <programme start="20241204190000 +0200" stop="20241204200000 +0200" channel="National TV">
+    <title lang="ro">Anupamaa</title>
+  </programme>
+  <programme start="20241204200000 +0200" stop="20241204210000 +0200" channel="National TV">
+    <title lang="ro">Suflete tradate</title>
+  </programme>
+  <programme start="20241204210000 +0200" stop="20241204230000 +0200" channel="National TV">
+    <title lang="ro">Răzbunarea Selinei</title>
+  </programme>
+  <programme start="20241204230000 +0200" stop="20241205004500 +0200" channel="National TV">
+    <title lang="ro">Luna Insangerata</title>
+  </programme>
+  <programme start="20241204070000 +0200" stop="20241204100000 +0200" channel="B1 TV">
+    <title lang="ro">Bună dimineața, România!</title>
+  </programme>
+  <programme start="20241204100000 +0200" stop="20241204120000 +0200" channel="B1 TV">
+    <title lang="ro">Bună dimineața, România!</title>
+  </programme>
+  <programme start="20241204120000 +0200" stop="20241204150000 +0200" channel="B1 TV">
+    <title lang="ro">News Pass</title>
+    <desc lang="ro">Talk show în care sunt analizate principalele știri ale zilei. Emisiune moderată de jurnalista Laura Chiriac.(n)</desc>
+  </programme>
+  <programme start="20241204150000 +0200" stop="20241204180000 +0200" channel="B1 TV">
+    <title lang="ro">Politica zilei</title>
+    <desc lang="ro">cu Ioana Constantin.(n)</desc>
+  </programme>
+  <programme start="20241204180000 +0200" stop="20241204200000 +0200" channel="B1 TV">
+    <title lang="ro">Bună, România!</title>
+    <desc lang="ro">Radu Buzăianu și Răzvan Zamfir dezbat principalele subiecte ale zilei, într-un stil personal, emisiunea oferind o perspectivă satirică asupra evenimentelor de pe scena politică, dar și din societatea românească.(n)</desc>
+  </programme>
+  <programme start="20241204200000 +0200" stop="20241204210000 +0200" channel="B1 TV">
+    <title lang="ro">Știrile B1</title>
+    <desc lang="ro">Fie că este vorba de jurnalele amiezii - concepute într-un mod foarte dinamic, prin conţinut, modul de prezentare şi abordare a subiectelor - sau de o sinteză a știrilor de peste zi, Știrile B1 TV țin telespectatorii la curent cu realitatea imediată.(n)</desc>
+  </programme>
+  <programme start="20241204210000 +0200" stop="20241204230000 +0200" channel="B1 TV">
+    <title lang="ro">Actualitatea</title>
+    <desc lang="ro">cu Tudor Mușat.(n)</desc>
+  </programme>
+  <programme start="20241204230000 +0200" stop="20241205000000 +0200" channel="B1 TV">
+    <title lang="ro">Știrile B1</title>
+    <desc lang="ro">Fie că este vorba de jurnalele amiezii - concepute într-un mod foarte dinamic, prin conţinut, modul de prezentare şi abordare a subiectelor - sau de o sinteză a știrilor de peste zi, Știrile B1 TV țin telespectatorii la curent cu realitatea imediată.(n)</desc>
+  </programme>
+  <programme start="20241204070000 +0200" stop="20241204072500 +0200" channel="TVR 2">
+    <title lang="ro">Generaţia Fit</title>
+    <desc lang="ro">Redifuzare
+Emisiunea" Generaţia Fit" oferă cea mai bună reţetă de stil de viaţă sănătos-antrenamente pe care le poţi face în sala de fitness, nutriţie corectă şi alimentaţie sănătoasă, antrenamente atractive de grup, reţete delicioase şi rapide, exerciţii pe care le poti face acasă, dar şi secretele stilului de viaţă sănătos ale vedetelor, persoanelor publice şi sportivilor de performanţă.
+Emisiunea "Generaţia Fit" promovează un stil de viaţă sănătos, care include sportul, mişcarea, dar şi alimentaţia sănătoasă, şi educă publicul, oferind astfel noţiuni esenţiale privind practicarea corectă a activităţii sportive şi alimentaţia corectă.
+Producător: Iulia Popescu
+Coproducţie TVR şi Federaţia Română de Culturism şi Fitness.(n)</desc>
+  </programme>
+  <programme start="20241204072500 +0200" stop="20241204075000 +0200" channel="TVR 2">
+    <title lang="ro">România…în bucate</title>
+    <desc lang="ro">TVR Craiova
+* Tăst Show
+Emisiune realizată de TVR Craiova
+Prezentator si realizator: Doru Ciolacu
+Producător : Simona Musuroi
+Jurnalist Cătălin Blebea 
+Producător delegat: Alexandra Tiniche
+Producator: Alice Saceanu
+
+
+ (Reluare).(n)</desc>
+  </programme>
+  <programme start="20241204075000 +0200" stop="20241204084500 +0200" channel="TVR 2">
+    <title lang="ro">Puternici, impreuna</title>
+    <desc lang="ro">Puternici, impreuna 
+Prezentator Liana Stanciu
+Regizor Dan Manoliu
+Producator Liana Daman
+Jurnalisti: Elena Cristescu, Luiza Caravasile
+
+
+
+ (Reluare).(n)</desc>
+  </programme>
+  <programme start="20241204084500 +0200" stop="20241204090000 +0200" channel="TVR 2">
+    <title lang="ro">Teleshopping</title>
+  </programme>
+  <programme start="20241204090000 +0200" stop="20241204093000 +0200" channel="TVR 2">
+    <title lang="ro">Teleșcoala - Clasa a VIII-a</title>
+    <desc lang="ro">„Teleşcoala” este o emisiune produsă integral de Televiziunea Română, în colaborare cu Ministerul Educației și Cercetării care furnizează tematica, ordinea lecţiilor şi profesorii care vor susţine cursurile. Orele se vor ţine în studioul virtual al TVR (Studioul 4) de către profesori experimentaţi în predarea cursurilor online: doi profesori pentru materia de clasa a VIII-a şi opt profesori pentru materiile de clasa a XII-a. Predarea se va face după manualele aprobate de Ministerul Educației și Cercetării, iar pe ecranul virtual elevii-telespectatori vor avea o bună vizibilitate la tot ceea ce lucrează profesorul pe un laptop.(n)</desc>
+  </programme>
+  <programme start="20241204093000 +0200" stop="20241204100000 +0200" channel="TVR 2">
+    <title lang="ro">Teleşcoala</title>
+    <desc lang="ro">* Limbi străine 
+* Limba franceza 
+Producator: Sinziana Milosoiu
+
+ 
+ (Reluare).(n)</desc>
+  </programme>
+  <programme start="20241204100000 +0200" stop="20241204103000 +0200" channel="TVR 2">
+    <title lang="ro">Teleshopping</title>
+  </programme>
+  <programme start="20241204103000 +0200" stop="20241204113000 +0200" channel="TVR 2">
+    <title lang="ro">Documentar 360° Geo</title>
+    <desc lang="ro">* Căutătorii de comori din Bangkok (Chasseurs de trésors á Bangkok, Franţa-Germania, 2013) Redifuzare
+*Râul Chao Phraya se strecoară ca un şarpe de-a lungul capitalei Thailandei-Bangkok. Zilnic, nenumăraţi bărbaţi se scufundă în apele sale cu ajutorul unor clopote de scufundare manufacturate în căutarea unor comori: diverse obiecte metalice, sticle sau chiar antichităţi; orice poate fi vândut.
+Realizator: Martin Schacht
+Redactor: Corina Feleagă.(n)</desc>
+  </programme>
+  <programme start="20241204113000 +0200" stop="20241204120000 +0200" channel="TVR 2">
+    <title lang="ro">Fără prejudecăţi</title>
+    <desc lang="ro">*Emisiunea Fără prejudecăți este singura producție media din Europa pentru care lucrează reporteri TV cu dizabilități și a fost premiată în anul 2016 de către Organizația Națiunilor Unite ca model de incluziune și autoreprezentare. Producția este interpretată în limbajul semnelor române iar o variantă accesibilizată pentru nevăzători de regăsește pe platforma Mixcloud. Reporterii Raluca Avram și Mihai Arsenie împreună cu moderatorul Ovidiu Damian se vor întâlni cu telespectatorii în fiecare sâmbătă de la ora 9:30 și vă vor prezenta poveștile unor oameni excepționali care schimbă lumea.
+Reporteri: Mihai Arsenie, Raluca Avram
+Interpret mimico-gestual: Simona Damian
+Moderator si realizator: Ovidiu Damian
+Producator: Ovidiu Pop
+Emisiune realizata de TVR Cluj
+ACEST PROGRAM SE ADRESEAZĂ ŞI PERSOANELOR CU DEFICIENŢE DE AUZ
+
+
+ (Reluare).(n)</desc>
+  </programme>
+  <programme start="20241204120000 +0200" stop="20241204124000 +0200" channel="TVR 2">
+    <title lang="ro">Telejurnal TVR 2</title>
+    <desc lang="ro">* Sport* Meteo 
+Transmisiune directă
+Translator mimico-gestual Lena Dermengiu 
+ACEST PROGRAM SE ADRESEAZĂ ŞI PERSOANELOR CU DEFICIENŢE DE AUZ.(n)</desc>
+  </programme>
+  <programme start="20241204124000 +0200" stop="20241204130000 +0200" channel="TVR 2">
+    <title lang="ro">Teleshopping</title>
+  </programme>
+  <programme start="20241204130000 +0200" stop="20241204133000 +0200" channel="TVR 2">
+    <title lang="ro">Cultura minorităţilor</title>
+    <desc lang="ro">* Mozaika 
+
+Realizator Manuela Aldea
+Producator: Teodora Dragoi.(n)</desc>
+  </programme>
+  <programme start="20241204133000 +0200" stop="20241204150000 +0200" channel="TVR 2">
+    <title lang="ro">Educatia la putere</title>
+    <desc lang="ro">Moderator si realizator: Monica Ghiurco
+Regizor: Vitalie Lupascu 
+Jurnalisti: Mihaela Iamandei si Adrian Banuta
+Producator Aimee d`Albon.
+
+ 
+ (Reluare).(n)</desc>
+  </programme>
+  <programme start="20241204150000 +0200" stop="20241204153000 +0200" channel="TVR 2">
+    <title lang="ro">Teleșcoala - Clasa a VIII-a</title>
+    <desc lang="ro">*Clasa a VIII-a Sezon Nou 
+*Limba si literatura română
+Producator: Sinziana Milosoiu.(n)</desc>
+  </programme>
+  <programme start="20241204153000 +0200" stop="20241204160000 +0200" channel="TVR 2">
+    <title lang="ro">Teleşcoala</title>
+    <desc lang="ro">* Limbi străine Sezon Nou
+*Limba germană
+ Producator: Sinziana Milosoiu.(n)</desc>
+  </programme>
+  <programme start="20241204160000 +0200" stop="20241204163000 +0200" channel="TVR 2">
+    <title lang="ro">Magazin Deutsche Welle</title>
+    <desc lang="ro">* Fii în formă ! (IN GOOD SHAPE-Magazin despre sănătate, Germania, 2024) PREMIERĂ
+*Cum putem duce o viaţă sănătoasă, cu mintea echilibrată şi organismul în formă. Aflăm cele mai noi tendinţe din medicină, nutriţie şi fitness.
+Episodul:128
+Redactor: Bogdan Stănescu.(n)</desc>
+  </programme>
+  <programme start="20241204163000 +0200" stop="20241204170000 +0200" channel="TVR 2">
+    <title lang="ro">România…în bucate</title>
+    <desc lang="ro">Sezon Nou
+TVR Târgu Mureş
+* Cooking Show
+*.
+Realizator: Bogdan Moraru
+Producător: Costin Miron
+Jurnalist: Cătălin Blebea
+Producător delegat: Alexandra Tiniche
+Producator: Alice Saceanu.(n)</desc>
+  </programme>
+  <programme start="20241204170000 +0200" stop="20241204180000 +0200" channel="TVR 2">
+    <title lang="ro">D'ale lu' Mitică</title>
+    <desc lang="ro">Redifuzare
+*
+Scenariu: Cristian vlad 
+Reporter: Marian Marin
+Producător: Liliana Vlad.(n)</desc>
+  </programme>
+  <programme start="20241204180000 +0200" stop="20241204185000 +0200" channel="TVR 2">
+    <title lang="ro">Ora de ştiri</title>
+  </programme>
+  <programme start="20241204185000 +0200" stop="20241204190500 +0200" channel="TVR 2">
+    <title lang="ro">E vremea ta!</title>
+    <desc lang="ro">Prezintă: Cristina Soare şi Andrei Bărbulescu E vremea ta să primesti date despre timpul probabil, climă, mediu șsi alte domenii conexe. Vei afla informatii de la specialisti, curiozităti, sfaturi utile si previziuni astrologice șsi vei sti cum îti influentează viata starea vremii.
+Redactori (realizatori ediţii zilnice): Cristina Dănilă, Laurenţiu Mandu, Adrian Bănuţă, Raluca Arvat şi Roxana Iordache.
+Producători: Raluca Brumariu, Cristina Dănilă, Alina Pagu.(n)</desc>
+  </programme>
+  <programme start="20241204190500 +0200" stop="20241204200000 +0200" channel="TVR 2">
+    <title lang="ro">Comisarul Rex: aventuri la Viena</title>
+  </programme>
+  <programme start="20241204200000 +0200" stop="20241204210000 +0200" channel="TVR 2">
+    <title lang="ro">Puternici, impreuna</title>
+    <desc lang="ro">Sezon Nou
+*Emisiunea PUTERNICI, IMPREUNA este un program care aduce fata in fata o familie din randul oamenilor simpli (sau un reprezentant al familiei, de la caz la caz ) si o vedeta, o personalitate din lumea artistica, sportiva sau politica. Acestia isi expun in fata telespectatorilor problemele lor, probleme cu care se confrunta orice om indiferent de clasa sociala, pregatire profesionala sau sex. Emisiunea PUTERNICI, IMPREUNA poate deveni una dintre optiunile preferate ale telespectatorilor TVR2, care se regăsesc in tematica sa, dar si un bun prilej de a întâlni vedetele lor preferate cu problemele lor ascunse.Emisiunea, zilnica, de luni pana joi, va pune in discutie si va cauta solutii pentru aspecte ale vietii de familie ale românilor de rând, începand cu relatia in cuplu, cresterea șsi educarea copiilor, alegerea partenerului de viată, gestionarea situatiilor delicate in cuplu, etc.
+*Tema: 
+Prezentator Liana Stanciu
+Regizor Dan Manoliu
+Producator Liana Daman
+Jurnalisti: Elena Cristescu, Luiza Caravasile.(n)</desc>
+  </programme>
+  <programme start="20241204210000 +0200" stop="20241204220000 +0200" channel="TVR 2">
+    <title lang="ro">Memorialul Durerii</title>
+    <desc lang="ro">*O istorie care nu se învată la scoală Redifuzare
+Un film de Lucia Hossu Longin 
+Redactor: Doina Teodoru
+Producător: Alexandru Munteanu
+Un film de Lucia Hossu Longin
+O coproducţie TVR-APTR.(n)</desc>
+  </programme>
+  <programme start="20241204220000 +0200" stop="20241204233000 +0200" channel="TVR 2">
+    <title lang="ro">Educatia la putere</title>
+    <desc lang="ro">Sezon Nou
+*
+Moderator si realizator: Monica Ghiurco
+Regizor: Vitalie Lupascu 
+Jurnalisti: Mihaela Iamandei si Adrian Banuta
+Producator Aimee d`Albon.(n)</desc>
+  </programme>
+  <programme start="20241204233000 +0200" stop="20241205003000 +0200" channel="TVR 2">
+    <title lang="ro">Comisarul Rex: aventuri la Viena</title>
+  </programme>
+  <programme start="20241204070000 +0200" stop="20241204080000 +0200" channel="A7TV">
+    <title lang="ro">Fresh Acces</title>
+    <desc lang="ro">Emisiunea-magazin oferă povești inspiraționale, dar și sfaturi practice de la invitați și specialiști din diverse domenii.(n)</desc>
+  </programme>
+  <programme start="20241204080000 +0200" stop="20241204100000 +0200" channel="A7TV">
+    <title lang="ro">Matinal A7</title>
+  </programme>
+  <programme start="20241204100000 +0200" stop="20241204120000 +0200" channel="A7TV">
+    <title lang="ro">Alături de tine</title>
+    <desc lang="ro">Emisiune educativa și interactivă care dezbate diferite subiecte, de la medicină și juridic, până la lifestyle, traveling, parenting și dezvoltare personală.(n)</desc>
+  </programme>
+  <programme start="20241204120000 +0200" stop="20241204130000 +0200" channel="A7TV">
+    <title lang="ro">La zi</title>
+  </programme>
+  <programme start="20241204130000 +0200" stop="20241204140000 +0200" channel="A7TV">
+    <title lang="ro">Substantial</title>
+  </programme>
+  <programme start="20241204140000 +0200" stop="20241204150000 +0200" channel="A7TV">
+    <title lang="ro">Știrea cea bună</title>
+    <desc lang="ro">Night entertainment show cu persoane publice din diverse domenii.(n)</desc>
+  </programme>
+  <programme start="20241204150000 +0200" stop="20241204160000 +0200" channel="A7TV">
+    <title lang="ro">Ce este omul?</title>
+  </programme>
+  <programme start="20241204160000 +0200" stop="20241204170000 +0200" channel="A7TV">
+    <title lang="ro">De vorbă cu Doctorul</title>
+    <desc lang="ro">Infotainment medical de interes general.(n)</desc>
+  </programme>
+  <programme start="20241204170000 +0200" stop="20241204180000 +0200" channel="A7TV">
+    <title lang="ro">Fresh Acces</title>
+    <desc lang="ro">Emisiunea-magazin oferă povești inspiraționale, dar și sfaturi practice de la invitați și specialiști din diverse domenii.(n)</desc>
+  </programme>
+  <programme start="20241204180000 +0200" stop="20241204190000 +0200" channel="A7TV">
+    <title lang="ro">Alături de tine</title>
+    <desc lang="ro">Emisiune educativa și interactivă care dezbate diferite subiecte, de la medicină și juridic, până la lifestyle, traveling, parenting și dezvoltare personală.(n)</desc>
+  </programme>
+  <programme start="20241204190000 +0200" stop="20241204200000 +0200" channel="A7TV">
+    <title lang="ro">Substantial</title>
+  </programme>
+  <programme start="20241204200000 +0200" stop="20241204210000 +0200" channel="A7TV">
+    <title lang="ro">La zi</title>
+    <desc lang="ro">Talk-show axat pe subiectele la zi din mediul politic, economic și social.(n)</desc>
+  </programme>
+  <programme start="20241204210000 +0200" stop="20241204220000 +0200" channel="A7TV">
+    <title lang="ro">Substantial</title>
+  </programme>
+  <programme start="20241204220000 +0200" stop="20241204230000 +0200" channel="A7TV">
+    <title lang="ro">Știrea cea bună</title>
+    <desc lang="ro">Night entertainment show cu persoane publice din diverse domenii.(n)</desc>
+  </programme>
+  <programme start="20241204230000 +0200" stop="20241205000000 +0200" channel="A7TV">
+    <title lang="ro">BookMedia</title>
+    <desc lang="ro">Prin intermediul emisiunii se încurajează cititul și se recomandă cele mai bune titluri.(n)</desc>
+  </programme>
+  <programme start="20241204070000 +0200" stop="20241204080000 +0200" channel="Agro TV">
+    <title lang="ro">Ştirile AGRO TV</title>
+  </programme>
+  <programme start="20241204080000 +0200" stop="20241204090000 +0200" channel="Agro TV">
+    <title lang="ro">Ce vor Plantele</title>
+  </programme>
+  <programme start="20241204090000 +0200" stop="20241204100000 +0200" channel="Agro TV">
+    <title lang="ro">Agricultura, o sansa pentru Romania</title>
+  </programme>
+  <programme start="20241204100000 +0200" stop="20241204103000 +0200" channel="Agro TV">
+    <title lang="ro">Teleshopping</title>
+  </programme>
+  <programme start="20241204103000 +0200" stop="20241204110000 +0200" channel="Agro TV">
+    <title lang="ro">Tehnologii si Utilaje</title>
+  </programme>
+  <programme start="20241204110000 +0200" stop="20241204113000 +0200" channel="Agro TV">
+    <title lang="ro">Agroproiecte de succes</title>
+  </programme>
+  <programme start="20241204113000 +0200" stop="20241204130000 +0200" channel="Agro TV">
+    <title lang="ro">Teleshopping</title>
+  </programme>
+  <programme start="20241204130000 +0200" stop="20241204140000 +0200" channel="Agro TV">
+    <title lang="ro">Știrile AGRO TV</title>
+  </programme>
+  <programme start="20241204140000 +0200" stop="20241204160000 +0200" channel="Agro TV">
+    <title lang="ro">Agricultura la Raport</title>
+  </programme>
+  <programme start="20241204160000 +0200" stop="20241204163000 +0200" channel="Agro TV">
+    <title lang="ro">Teleshopping</title>
+  </programme>
+  <programme start="20241204163000 +0200" stop="20241204170000 +0200" channel="Agro TV">
+    <title lang="ro">Agromagazin</title>
+  </programme>
+  <programme start="20241204170000 +0200" stop="20241204180000 +0200" channel="Agro TV">
+    <title lang="ro">Agricultura o sansa pentru Romania</title>
+  </programme>
+  <programme start="20241204180000 +0200" stop="20241204190000 +0200" channel="Agro TV">
+    <title lang="ro">Ce vor Plantele</title>
+  </programme>
+  <programme start="20241204190000 +0200" stop="20241204200000 +0200" channel="Agro TV">
+    <title lang="ro">Ştiri AGRO TV</title>
+  </programme>
+  <programme start="20241204200000 +0200" stop="20241204220000 +0200" channel="Agro TV">
+    <title lang="ro">Agricultura la raport</title>
+  </programme>
+  <programme start="20241204220000 +0200" stop="20241204230000 +0200" channel="Agro TV">
+    <title lang="ro">Ce vor Plantele</title>
+  </programme>
+  <programme start="20241204230000 +0200" stop="20241205000000 +0200" channel="Agro TV">
+    <title lang="ro">Știrile AGRO TV</title>
+  </programme>
+  <programme start="20241204073000 +0200" stop="20241204080000 +0200" channel="Alfa Omega TV">
+    <title lang="ro">Jerusalem Dateline</title>
+    <desc lang="ro">Ultimul capitol al istoriei va fi scris în Ierusalim. Statul Islamic amenință Occidentul. Un președinte iranian anunță o amenințare nucleară. Un bețiv turc are un vis în Mecca. Un cuplu evreiesc din Brooklyn aterizează pe aeroportul din Tel-Aviv. Ce legătură este între aceste evenimente ce par atât de...(n)</desc>
+  </programme>
+  <programme start="20241204080000 +0200" stop="20241204083000 +0200" channel="Alfa Omega TV">
+    <title lang="ro">Alfa Omega în obiectiv</title>
+    <desc lang="ro">Programul „Alfa Omega în Obiectiv” este o emisiune informativă și oferă telespectatorilor o incursiune în culisele televiziunii. În fiecare săptămână sunt prezentate interviuri cu telespectatori ai canalului Alfa Omega TV, precum și secvențe din evenimentele la care Alfa Omega TV a fost partener media,...(n)</desc>
+  </programme>
+  <programme start="20241204083000 +0200" stop="20241204090000 +0200" channel="Alfa Omega TV">
+    <title lang="ro">Puterea rugăciunii</title>
+    <desc lang="ro">In fiecare saptamana Mirela Petan si invitatii ei va vor indruma sa faceti ca rugaciunea sa fie parte din viata dumneavoastra de crestin. Emisiunea are ca scop echiparea credinciosilor romanilor pentru rugaciune, promovarea unor miscari de rugaciune existente inRomania si provocarea telespectatorilor de a se ruga...(n)</desc>
+  </programme>
+  <programme start="20241204090000 +0200" stop="20241204092500 +0200" channel="Alfa Omega TV">
+    <title lang="ro">Cartea Cărților</title>
+    <desc lang="ro">Imagineaza-ti o carte care te transporta prin aventuri fantastice din istoria antica! Cartea Cartilor a educat copii din intreaga lume, urmarind aventurile lui Chris, Joy si robotelul lor de jucarie Gizmo prin calatoriile incredibile ale acestora. ...(n)</desc>
+  </programme>
+  <programme start="20241204092500 +0200" stop="20241204093000 +0200" channel="Alfa Omega TV">
+    <title lang="ro">Devoțional pentru copii</title>
+    <desc lang="ro">Acest program despre înțelegerea Cuvântului lui Dumnezeu se adresează copiilor. Lecții biblice, pasaje cu învățături practice, studii pe diferite teme biblice – toate, prezentate de Ade și Edi Kifor, doi copii dornici să-L slujească pe Domnul și să împărtășească tot ceea ce au învățat până...(n)</desc>
+  </programme>
+  <programme start="20241204093000 +0200" stop="20241204100000 +0200" channel="Alfa Omega TV">
+    <title lang="ro">Detectivul web Dot Conner</title>
+    <desc lang="ro">Dot și colegii ei de școală abordează probleme care depășesc vârsta lor. Singurul mod de a face acest lucru este ca „detectivi web”. Dot își pune pălăria și își ia carnețelul, în timp ce Makayla o ajută la interviuri, iar Alex filmează pentru vlogul lui Dot. Interviurile sunt cu adulți bine...(n)</desc>
+  </programme>
+  <programme start="20241204100000 +0200" stop="20241204103000 +0200" channel="Alfa Omega TV">
+    <title lang="ro">Reconciliere</title>
+    <desc lang="ro">Descoperiți o serie nouă captivantă care îmbină splendoarea vizuală cu provocarea spirituală, pe fundalul Israelului antic și modern. Prin 24 de episoade captivante, acest program vă poartă într-o călătorie transformatoare în locuri biblice mai puțin cunoscute din Galileea, adâncindu-se în istoria...(n)</desc>
+  </programme>
+  <programme start="20241204103000 +0200" stop="20241204110000 +0200" channel="Alfa Omega TV">
+    <title lang="ro">Lucruri noi</title>
+    <desc lang="ro">Urmărește mesaje biblice și podcasturi susținute de diverși vorbitori în biserica „Betania” din Dublin, Irlanda....(n)</desc>
+  </programme>
+  <programme start="20241204110000 +0200" stop="20241204123000 +0200" channel="Alfa Omega TV">
+    <title lang="ro">Alegerea Sarei</title>
+    <desc lang="ro">Sarah Collins este pe punctul de a fi promovată într-o funcție de răspundere bine remunerată atunci când află cu stupoare că este însărcinată. Fiind născuta într-o familie creștină, pentru Sarah posibilitatea avortului sau adopției sunt de neconceput pentru mama și sora ei. Însă tânăra Sarah nu...(n)</desc>
+  </programme>
+  <programme start="20241204123000 +0200" stop="20241204130000 +0200" channel="Alfa Omega TV">
+    <title lang="ro">Înflorește acum!</title>
+    <desc lang="ro">O emisiune extraordinară în care vom vedea cum voia lui Dumnezeu se potrivește în această lume rănită. Alături de Ginny Priz si Paula Wallace vom discuta despre rănile interne și externe și modul prin care puteți fi vindecați pentru a putea străluci în viață....(n)</desc>
+  </programme>
+  <programme start="20241204130000 +0200" stop="20241204133000 +0200" channel="Alfa Omega TV">
+    <title lang="ro">Decupaj din realitate</title>
+    <desc lang="ro">„Decupaj din realitate” este un spațiu de emisie pe care Alfa Omega TV îl pune la dispoziția corespondenților pentru a transmite materiale înregistrate de ei, la diferite evenimente desfășurate în biserica lor, activități misionare, concerte, seminarii, tabere, videoclipuri muzicale, acțiuni...(n)</desc>
+  </programme>
+  <programme start="20241204133000 +0200" stop="20241204135500 +0200" channel="Alfa Omega TV">
+    <title lang="ro">Vești despre Împărăție</title>
+    <desc lang="ro">Autoritatea palestiniană are parte de foarte mult sprijin din partea țărilor din Occident. Vom vedea ce cred palestinienii despre acest sprijin. Puțini palestinieni îndrăznesc să spună în public ce gândesc cu adevărat, din cauza conducerii palestiniene asemănătoare unei dictaturi. Conflictul...(n)</desc>
+  </programme>
+  <programme start="20241204135500 +0200" stop="20241204140000 +0200" channel="Alfa Omega TV">
+    <title lang="ro">Calendarul de Advent</title>
+    <desc lang="ro">V-ați întrebat vreodată de ce sărbătorim Crăciunul astfel? De ce oferim cadouri, atârnăm vâsc, decorăm brazi de Crăciun? Cum au devenit Moș Crăciun, Renul Rudolf cu nasul roșu și Spărgătorul de nuci, tradiții de Crăciun? Descoperiți originile acestora și multe alte tradiții, de care toată...(n)</desc>
+  </programme>
+  <programme start="20241204140000 +0200" stop="20241204142500 +0200" channel="Alfa Omega TV">
+    <title lang="ro">Paie pentru cărămizi</title>
+    <desc lang="ro">În acest program am colaborat cu caricaturistul Radu Clețiu, care prezintă lecții biblice prin caricatură. În cadrul fiecărui episod, acesta prezintă diverse pilde biblice sau principii din Scriptură, prin intermediul caricaturii. Acest program deosebit este potrivit atât pentru copiii, cât și pentru...(n)</desc>
+  </programme>
+  <programme start="20241204142500 +0200" stop="20241204143000 +0200" channel="Alfa Omega TV">
+    <title lang="ro">Promisiuni pentru fiecare zi</title>
+    <desc lang="ro">Acest program devotional se bazează pe învățăturile oferite de Joyce Meyer în cartea cu același nume. Ea oferă învățături practice ale Bibliei, iar prin acest devotional ne-am dorit să transmit în format audio-video textele prezentate în carte. Emisiunea cuprinde 365 de episoade scurte, de 2-3 minute,...(n)</desc>
+  </programme>
+  <programme start="20241204143000 +0200" stop="20241204150000 +0200" channel="Alfa Omega TV">
+    <title lang="ro">Bucură-te de fiecare zi</title>
+    <desc lang="ro">Joyce Meyer este unul dintre cei mai importanți învățători practici ai Bibliei. Conform New York Times, Joyce Meyer este unul dintre autorii cu cele mai multe cărți vândute, iar aceste cărți au ajutat milioane de oameni să găsească speranță și restaurare prin Isus Hristos. Time Magazine a desemnat-o...(n)</desc>
+  </programme>
+  <programme start="20241204150000 +0200" stop="20241204153000 +0200" channel="Alfa Omega TV">
+    <title lang="ro">O ușă deschisă pentru tine</title>
+    <desc lang="ro">O emisiune TV realizata de biserica Philadelphia Romanian Church of God - Chicago; Pastor Florin T. Cimpean este gazda dumnevoastra si va reaminteste ca atunci cand toate usile s-au inchis, Dumnezeu are o usa deschisa pentru fiecare....(n)</desc>
+  </programme>
+  <programme start="20241204153000 +0200" stop="20241204160000 +0200" channel="Alfa Omega TV">
+    <title lang="ro">Olarul</title>
+    <desc lang="ro">Din studioul său de lângă râul Arkansas din Colorado, olarul Dave Blakeslee spune: „Unul din lucrurile pe care le iubesc la Dumnezeu este creativitatea Sa” În acest documentar, privește și ascultă cum modelează, finisează și transformă lutul în operă de artă, povestind cum, Marele Olar i-a...(n)</desc>
+  </programme>
+  <programme start="20241204160000 +0200" stop="20241204163000 +0200" channel="Alfa Omega TV">
+    <title lang="ro">Ziua se apropie</title>
+    <desc lang="ro">În cadrul acestei emisiuni vrem să aducem în atenția telespectatorilor evenimente și situații care se concentrează pe înțelegerea vremurilor în care trăim. Prin „Ziua se apropie” vrem să conștientizăm telespectatorii că trăim vremuri importante din punct de vedere istoric și profetic. Oferim...(n)</desc>
+  </programme>
+  <programme start="20241204163000 +0200" stop="20241204170000 +0200" channel="Alfa Omega TV">
+    <title lang="ro">Cartea Cărților</title>
+    <desc lang="ro">Imagineaza-ti o carte care te transporta prin aventuri fantastice din istoria antica! Cartea Cartilor a educat copii din intreaga lume, urmarind aventurile lui Chris, Joy si robotelul lor de jucarie Gizmo prin calatoriile incredibile ale acestora. ...(n)</desc>
+  </programme>
+  <programme start="20241204170000 +0200" stop="20241204173000 +0200" channel="Alfa Omega TV">
+    <title lang="ro">Detectivul web Dot Conner</title>
+    <desc lang="ro">Dot și colegii ei de școală abordează probleme care depășesc vârsta lor. Singurul mod de a face acest lucru este ca „detectivi web”. Dot își pune pălăria și își ia carnețelul, în timp ce Makayla o ajută la interviuri, iar Alex filmează pentru vlogul lui Dot. Interviurile sunt cu adulți bine...(n)</desc>
+  </programme>
+  <programme start="20241204173000 +0200" stop="20241204174500 +0200" channel="Alfa Omega TV">
+    <title lang="ro">Un dar pentru tine</title>
+    <desc lang="ro">„Un dar pentru tine” este o serie de programe de tip consiliere. De-a lungul timpului am primit sute de întrebări pe teme legate de mântuire, relații, probleme spirituale sau emoționale, și prin această emisiune ne propunem să răspundem întrebărilor și să oferim telespectatorilor sfaturi cu bază...(n)</desc>
+  </programme>
+  <programme start="20241204174500 +0200" stop="20241204175500 +0200" channel="Alfa Omega TV">
+    <title lang="ro">Vieţi în lumină</title>
+    <desc lang="ro">Vieți în lumină este o serie de mărturii ale unor oameni care au experimentat puterea lui Dumnezeu în viețile lor. Unii dintre ei au avut parte de mântuire, vindecare supranaturală, alții au fost eliberați de diferite vicii sau au primit răspuns la o situație care părea imposibil de rezolvat din punct de...(n)</desc>
+  </programme>
+  <programme start="20241204175500 +0200" stop="20241204180000 +0200" channel="Alfa Omega TV">
+    <title lang="ro">Promisiuni pentru fiecare zi</title>
+    <desc lang="ro">Acest program devotional se bazează pe învățăturile oferite de Joyce Meyer în cartea cu același nume. Ea oferă învățături practice ale Bibliei, iar prin acest devotional ne-am dorit să transmit în format audio-video textele prezentate în carte. Emisiunea cuprinde 365 de episoade scurte, de 2-3 minute,...(n)</desc>
+  </programme>
+  <programme start="20241204180000 +0200" stop="20241204183000 +0200" channel="Alfa Omega TV">
+    <title lang="ro">Învățăturile lui Iosif Țon</title>
+    <desc lang="ro">Cunoaște-L mai bine pe Dumnezeu, Împărăția și bunătatea Lui, alături de Iosif Țon! Urmărește mesaje bine fundamentate biblic pe teme actuale, precum neomarxism, ateism, dar și despre subiecte clasice creștine: har, mântuire, ucenicie, biruință în încercări etc....(n)</desc>
+  </programme>
+  <programme start="20241204183000 +0200" stop="20241204190000 +0200" channel="Alfa Omega TV">
+    <title lang="ro">Decupaj din realitate</title>
+    <desc lang="ro">„Decupaj din realitate” este un spațiu de emisie pe care Alfa Omega TV îl pune la dispoziția corespondenților pentru a transmite materiale înregistrate de ei, la diferite evenimente desfășurate în biserica lor, activități misionare, concerte, seminarii, tabere, videoclipuri muzicale, acțiuni...(n)</desc>
+  </programme>
+  <programme start="20241204190000 +0200" stop="20241204193000 +0200" channel="Alfa Omega TV">
+    <title lang="ro">Ospăţ cu mană</title>
+    <desc lang="ro">În anul 2000 a fost lansat programul de televiziune „Manna-Fest” cu Perry Stone, un program săptămânal care se poate viziona atât la nivel național, cât și internațional prin intermediul sistemelor de cablu și satelit în întreaga lume. Recunoscut pentru ungerea lui în predică, Perry a fost în...(n)</desc>
+  </programme>
+  <programme start="20241204193000 +0200" stop="20241204200000 +0200" channel="Alfa Omega TV">
+    <title lang="ro">Mapamond Creştin</title>
+    <desc lang="ro">Fiecare ediție prezintă știri și reportaje care cuprind evenimente de mare interes din lumea religioasă, conflicte din zonele de pe glob cu influență musulmană sau hindusă, misiuni creștine în locuri periculoase și proiecte social-umanitare, dificultăți din țările fost comuniste, mărturii și...(n)</desc>
+  </programme>
+  <programme start="20241204200000 +0200" stop="20241204210000 +0200" channel="Alfa Omega TV">
+    <title lang="ro">Calea, Adevărul şi Viaţa</title>
+    <desc lang="ro">Programul Calea, Adevarul si Viata este emisiunea fanion a studioului Alfa Omega TV, care ofera publicului telespectator iubitor de adevar biblic posibilitatea de a cunoaste pas cu pas Scripturile. Acest program nu este o insiruire de seminarii, nu este o succesiune de lectii teologice de înalt nivel academic, nu se...(n)</desc>
+  </programme>
+  <programme start="20241204210000 +0200" stop="20241204223000 +0200" channel="Alfa Omega TV">
+    <title lang="ro">Spectacol în doi</title>
+    <desc lang="ro">Un băiețel e respins de mai multe familii adoptive, dar, după mai multe peripeții, își găsește în final o familie mai numeroasă decât ar fi sperat vreodată. ...(n)</desc>
+  </programme>
+  <programme start="20241204223000 +0200" stop="20241204230000 +0200" channel="Alfa Omega TV">
+    <title lang="ro">Muzică</title>
+  </programme>
+  <programme start="20241204230000 +0200" stop="20241204232500 +0200" channel="Alfa Omega TV">
+    <title lang="ro">Calea Maestrului</title>
+    <desc lang="ro">„Calea Maestrului” este un talk-show difuzat în peste 190 de țări, plin de dinamism, potrivit pentru a fi vizionat de întreaga familie. Prin interviuri provocatoare și discuții susținute de prezentatori dinamici, această serie ne inspiră să împărtășim mesajul Evangheliei cu oamenii din jurul nostru....(n)</desc>
+  </programme>
+  <programme start="20241204232500 +0200" stop="20241204233000 +0200" channel="Alfa Omega TV">
+    <title lang="ro">Calendarul de Advent</title>
+    <desc lang="ro">V-ați întrebat vreodată de ce sărbătorim Crăciunul astfel? De ce oferim cadouri, atârnăm vâsc, decorăm brazi de Crăciun? Cum au devenit Moș Crăciun, Renul Rudolf cu nasul roșu și Spărgătorul de nuci, tradiții de Crăciun? Descoperiți originile acestora și multe alte tradiții, de care toată...(n)</desc>
+  </programme>
+  <programme start="20241204233000 +0200" stop="20241205000000 +0200" channel="Alfa Omega TV">
+    <title lang="ro">Pasiune pură</title>
+    <desc lang="ro">Pasiune pură este o emisiune unică în televiziune. Abordează un domeniu al vieții (cel sexual) care are nevoie de multă vindecare. Milioane de oameni eșuează din punct de vedere sexual, având nevoie să afle despre harul și Adevărul care eliberează și trasează standardele unei sexualități umane...(n)</desc>
+  </programme>
+  <programme start="20241204080000 +0200" stop="20241204120000 +0200" channel="Antena 1 HD">
+    <title lang="ro">Neatza cu Răzvan şi Dani</title>
+    <desc lang="ro">Emisiunea în care te pui la curent cu cele mai interesante și de actualitate subiecte ale dimineții. Meteo, rețete, ultimele piese muzicale sau ultimele sfaturi practice, ai totul pentru a-ți începe ziua cu zâmbetul pe buze.(n)</desc>
+  </programme>
+  <programme start="20241204120000 +0200" stop="20241204140000 +0200" channel="Antena 1 HD">
+    <title lang="ro">Observator</title>
+    <desc lang="ro">Ştiri, reportaje, anchete, informaţii utile şi de ultimă oră. Fii observator!(n)</desc>
+  </programme>
+  <programme start="20241204140000 +0200" stop="20241204170000 +0200" channel="Antena 1 HD">
+    <title lang="ro">Mireasa – Iubire de 10 cu Simona Gherghe</title>
+    <desc lang="ro">Mireasa este una dintre cele mai longevive emisiuni matrimoniale din România.
+Opt fete și opt băieți vor începe un nou capitol în viața lor. Cu toții vor petrece luni buni împreună, iar cei mai norocoși vor reuși să clădească relații de durată.
+La fel ca în sezonul anterior, publicul poate urmări în continuare, 24 de ore din 24 de ore, imagini din casele concurenților.(n)</desc>
+  </programme>
+  <programme start="20241204170000 +0200" stop="20241204180000 +0200" channel="Antena 1 HD">
+    <title lang="ro">Observator</title>
+    <desc lang="ro">Ştiri, reportaje, anchete, informaţii utile şi de ultimă oră. Fii observator!(n)</desc>
+  </programme>
+  <programme start="20241204180000 +0200" stop="20241204190000 +0200" channel="Antena 1 HD">
+    <title lang="ro">Ești mai deștept decât un copil de clasa a V-a?</title>
+    <desc lang="ro">“Ești mai deștept decât un copil de clasa a V-a?“ este un show de divertisment pentru întreaga familie, din care nu lipsesc concurenţi cu poveşti deosebite, copii isteţi şi carismatici, întrebări menite să stârnească interes şi curiozitate, potenţate de momente deopotrivă tensionate şi emoţionante. Andrei Aradits, prezentatorul quiz show-ului, pune la dispoziţia concurentului 10 materii cu grad variabil de dificultate, de la clasa a I-a , până la clasa a V-a. Acesta poate cere ajutorul celor cinci copii prezenţi în platou, prin intermediul variantelor ajutătoare: COPIAZĂ - concurentul va copia răspunsul copilului, TRAGE CU OCHIUL - concurentul are opțiunea de a se inspira de la copil și de a alege dacă va merge pe varianta acestuia sau pe propriul răspuns sau SALVEAZĂ-MĂ - dacă jucătorul răspunde greșit și copilul corect, acesta este salvat și rămâne în joc. În cazul în care răspunde greșit sau se retrage, concurentul trebuie să spună spre cameră “Nu sunt mai deștept decât un copil de clasa a V-a!“.(n)</desc>
+  </programme>
+  <programme start="20241204190000 +0200" stop="20241204203000 +0200" channel="Antena 1 HD">
+    <title lang="ro">Observator</title>
+    <desc lang="ro">Ştiri, reportaje, anchete, informaţii utile şi de ultimă oră. Fii observator!(n)</desc>
+  </programme>
+  <programme start="20241204203000 +0200" stop="20241205000000 +0200" channel="Antena 1 HD">
+    <title lang="ro">Chefi la cuțite</title>
+    <desc lang="ro">Trei chefi de top, aflați în competiție pentru a găsi următoarea generație de talente desăvârșite în domeniul culinar, jurizează cele mai gustoase și originale rețete, în timp ce își ascut cuțitele pentru o confruntare culinară de-a dreptul savuroasă.(n)</desc>
+  </programme>
+  <programme start="20241204070000 +0200" stop="20241204080000 +0200" channel="Antena International">
+    <title lang="ro">Observator</title>
+    <desc lang="ro">Ştiri, reportaje, anchete, informaţii utile şi de ultimă oră. Fii observator!(n)</desc>
+  </programme>
+  <programme start="20241204080000 +0200" stop="20241204120000 +0200" channel="Antena International">
+    <title lang="ro">Neatza cu Răzvan şi Dani</title>
+    <desc lang="ro">De luni până vineri ai 4 ore de bună dispoziție în care te pui la curent cu cele mai interesante și de actualitate subiecte ale dimineții. Meteo, rețete, ultimele piese muzicale sau ultimele sfaturi practice, ai totul pentru a-ți începe ziua cu zâmbetul pe buze.(n)</desc>
+  </programme>
+  <programme start="20241204120000 +0200" stop="20241204140000 +0200" channel="Antena International">
+    <title lang="ro">Observator</title>
+    <desc lang="ro">Ştiri, reportaje, anchete, informaţii utile şi de ultimă oră. Fii observator!(n)</desc>
+  </programme>
+  <programme start="20241204140000 +0200" stop="20241204163000 +0200" channel="Antena International">
+    <title lang="ro">Mireasa</title>
+    <desc lang="ro">La această emisiune participă băieți și fete cu vârsta cuprinsă între 23-33 de ani, care vor să își găsească sufletul pereche. Premiul cel mare îl obține cuplul care hotărăște să se căsătorească în direct. În cazul în care niciun cuplu format în această emisiune nu se căsătorește, atunci telespectatorii vor vota concurenții favoriți iar cine obține cele mai multe voturi, va câștiga un alt premiu.(n)</desc>
+  </programme>
+  <programme start="20241204163000 +0200" stop="20241204170000 +0200" channel="Antena International">
+    <title lang="ro">Happy Café</title>
+    <desc lang="ro">Un format info-educativ fresh, care va aborda subiecte noi, atipice şi deopotrivă inspiraţionale, cu specialişti din diverse domenii de interes. Lor li se vor alătura zilnic invitaţi din showbiz-ul românesc şi nu numai, care vor vorbi sincer şi deschis despre succes şi drumul până la el.(n)</desc>
+  </programme>
+  <programme start="20241204170000 +0200" stop="20241204180000 +0200" channel="Antena International">
+    <title lang="ro">Observator</title>
+    <desc lang="ro">Ştiri, reportaje, anchete, informaţii utile şi de ultimă oră. Fii observator!(n)</desc>
+  </programme>
+  <programme start="20241204180000 +0200" stop="20241204190000 +0200" channel="Antena International">
+    <title lang="ro">Hello Chef cu Roxana Blenche</title>
+    <desc lang="ro">Hello Chef, emisiunea de cooking prezentată de Chef Roxana Blenche, revine cu noi rețete delicioase și spectaculoase, alături de o vedetă gata să își demonstreze talentele culinare. Preparatele apetisante și discuțiile savuroase vin la pachet cu ponturi și informații utile în bucătărie.(n)</desc>
+  </programme>
+  <programme start="20241204190000 +0200" stop="20241205070000 +0200" channel="Antena International">
+    <title lang="ro">Observator</title>
+    <desc lang="ro">Ştiri, reportaje, anchete, informaţii utile şi de ultimă oră. Fii observator!(n)</desc>
+  </programme>
+  <programme start="20241204070000 +0200" stop="20241204080000 +0200" channel="Antena International HD">
+    <title lang="ro">Observator</title>
+    <desc lang="ro">Ştiri, reportaje, anchete, informaţii utile şi de ultimă oră. Fii observator!(n)</desc>
+  </programme>
+  <programme start="20241204080000 +0200" stop="20241204120000 +0200" channel="Antena International HD">
+    <title lang="ro">Neatza cu Răzvan şi Dani</title>
+    <desc lang="ro">De luni până vineri ai 4 ore de bună dispoziție în care te pui la curent cu cele mai interesante și de actualitate subiecte ale dimineții. Meteo, rețete, ultimele piese muzicale sau ultimele sfaturi practice, ai totul pentru a-ți începe ziua cu zâmbetul pe buze.(n)</desc>
+  </programme>
+  <programme start="20241204120000 +0200" stop="20241204140000 +0200" channel="Antena International HD">
+    <title lang="ro">Observator</title>
+    <desc lang="ro">Ştiri, reportaje, anchete, informaţii utile şi de ultimă oră. Fii observator!(n)</desc>
+  </programme>
+  <programme start="20241204140000 +0200" stop="20241204163000 +0200" channel="Antena International HD">
+    <title lang="ro">Mireasa</title>
+    <desc lang="ro">La această emisiune participă băieți și fete cu vârsta cuprinsă între 23-33 de ani, care vor să își găsească sufletul pereche. Premiul cel mare îl obține cuplul care hotărăște să se căsătorească în direct. În cazul în care niciun cuplu format în această emisiune nu se căsătorește, atunci telespectatorii vor vota concurenții favoriți iar cine obține cele mai multe voturi, va câștiga un alt premiu.(n)</desc>
+  </programme>
+  <programme start="20241204163000 +0200" stop="20241204170000 +0200" channel="Antena International HD">
+    <title lang="ro">Happy Café</title>
+    <desc lang="ro">Un format info-educativ fresh, care va aborda subiecte noi, atipice şi deopotrivă inspiraţionale, cu specialişti din diverse domenii de interes. Lor li se vor alătura zilnic invitaţi din showbiz-ul românesc şi nu numai, care vor vorbi sincer şi deschis despre succes şi drumul până la el.(n)</desc>
+  </programme>
+  <programme start="20241204170000 +0200" stop="20241204180000 +0200" channel="Antena International HD">
+    <title lang="ro">Observator</title>
+    <desc lang="ro">Ştiri, reportaje, anchete, informaţii utile şi de ultimă oră. Fii observator!(n)</desc>
+  </programme>
+  <programme start="20241204180000 +0200" stop="20241204190000 +0200" channel="Antena International HD">
+    <title lang="ro">Hello Chef cu Roxana Blenche</title>
+    <desc lang="ro">Hello Chef, emisiunea de cooking prezentată de Chef Roxana Blenche, revine cu noi rețete delicioase și spectaculoase, alături de o vedetă gata să își demonstreze talentele culinare. Preparatele apetisante și discuțiile savuroase vin la pachet cu ponturi și informații utile în bucătărie.(n)</desc>
+  </programme>
+  <programme start="20241204190000 +0200" stop="20241205070000 +0200" channel="Antena International HD">
+    <title lang="ro">Observator</title>
+    <desc lang="ro">Ştiri, reportaje, anchete, informaţii utile şi de ultimă oră. Fii observator!(n)</desc>
+  </programme>
+  <programme start="20241204083000 +0200" stop="20241204090000 +0200" channel="Antena Stars">
+    <title lang="ro">Meniu De Vedetă</title>
+  </programme>
+  <programme start="20241204090000 +0200" stop="20241204103000 +0200" channel="Antena Stars">
+    <title lang="ro">Știrile Antena Stars</title>
+    <desc lang="ro">Live-uri de la principalele evenimente mondene, dar şi de la cele mai importante evenimente din viaţa vedetelor, intervenţii în direct cu specialişti din diverse domenii, breaking news-uri din lumea mondenă, dar şi dezbateri în direct, alături de diverşi invitaţi, toate acestea se vor regăsi în buletinele de Ştiri Antena Stars.(n)</desc>
+  </programme>
+  <programme start="20241204103000 +0200" stop="20241204130000 +0200" channel="Antena Stars">
+    <title lang="ro">Mireasa - Capriciile Iubirii</title>
+    <desc lang="ro">Mireasa #### Capriciile Iubirii este emisiunea în care sunt dezbătute cele mai controversate subiecte de la Mireasa, alături de toți cei implicați, indiferent dacă aceștia au fost sau nu în casă. Emisiunea încercă să îi ajute pe concurenți să își dea seama dacă ceea ce simt este un sentiment sincer sau mai mult un capriciu, o ambiție.(n)</desc>
+  </programme>
+  <programme start="20241204130000 +0200" stop="20241204133000 +0200" channel="Antena Stars">
+    <title lang="ro">Mireasa</title>
+    <desc lang="ro">La această emisiune participă băieți și fete cu vârsta cuprinsă între 23-33 de ani, care vor să își găsească sufletul pereche. Premiul cel mare îl obține cuplul care hotărăște să se căsătorească în direct. În cazul în care niciun cuplu format în această emisiune nu se căsătorește, atunci telespectatorii vor vota concurenții favoriți iar cine obține cele mai multe voturi, va câștiga un alt premiu.(n)</desc>
+  </programme>
+  <programme start="20241204133000 +0200" stop="20241204160000 +0200" channel="Antena Stars">
+    <title lang="ro">Viaţa Fără Filtru</title>
+    <desc lang="ro">Cu peste 20 de ani experienţă pe piaţa media din România, Mădălin Ionescu aduce Viaţa fără filtru, un format fresh, care va trata în cheie unică poveşti de viaţă spectaculoase şi realităţi româneşti de actualitate. Mădălin şi echipa sa vor explora contrastele, deopotrivă reuşitele şi căderile spectaculoase sau portrete excepţionale, care au inspirat şi continuă să inspire românii. Pe lângă segmentele specifice, emisiunea va aborda o serie largă de subiecte, inclusiv interviuri speciale, evenimente sportive, ştiri mondene, evenimente culturale şi investigaţii.(n)</desc>
+  </programme>
+  <programme start="20241204160000 +0200" stop="20241204190000 +0200" channel="Antena Stars">
+    <title lang="ro">Acces direct</title>
+    <desc lang="ro">O emisiune cu vedete, intrigi şi scandal, ce reuşeşte să aducă zilnic în atenţia publicului subiecte inedite şi de actualitate.(n)</desc>
+  </programme>
+  <programme start="20241204190000 +0200" stop="20241205090000 +0200" channel="Antena Stars">
+    <title lang="ro">Mireasa - Capriciile Iubirii
+ 
+ Mireasa ####
+ 
+ 
+ 08:30</title>
+    <desc lang="ro">Mireasa ####
+ 
+ 
+ 08:30
+ 
+ 
+ 
+ Meniu De Vedetă.(n)</desc>
+  </programme>
+  <programme start="20241204070000 +0200" stop="20241204091500 +0200" channel="Kanal D2">
+    <title lang="ro">Melek</title>
+  </programme>
+  <programme start="20241204091500 +0200" stop="20241204093000 +0200" channel="Kanal D2">
+    <title lang="ro">Teleshopping</title>
+  </programme>
+  <programme start="20241204093000 +0200" stop="20241204100000 +0200" channel="Kanal D2">
+    <title lang="ro">Vacanţa Mare: Leana s-a întors!</title>
+    <desc lang="ro">În viaţa liniştită a locuitorilor satului oltenesc Sadova îşi fac apariţia Investitorul (Daniel Lazăr) şi Profesoara (Ramona Olteanu), cele două personaje atrăgând atenţia tuturor. Leana (Mugur Mihaescu) şi Urinela (Ani Creţu) vor face tot ce le stă în putinţă pentru a o îndepărta pe frumoasa Profesoară din calea cuceririi inimii Investitorului, cel mai frumos, cel mai deştept şi bogat bărbat din sat.
+
+Axinte (Florin Petrescu) devine bulibaşă iar Lila (Mirela Stoian) este permanent lângă el pentru a-i încurca viaţa. Popa (Cristian Boeriu) se dovedeşte a fi agent CIA sub acoperire, rolul lui real în Sadova fiind de a spiona extratereştrii care ameninţă să atace satul. Serialul Elodia va fi reluat de coloratele personaje din sat, în manieră Vacanţa Mare.
+
+Scenariul poartă semnătura Radu Pietreanu care promite că noul produs Vacanţa Mare va creea dependenţă şi că telespectatorii nu se vor putea dezlipi de ecrane şi vor număra minutele până la următorul episod.(n)</desc>
+  </programme>
+  <programme start="20241204100000 +0200" stop="20241204103000 +0200" channel="Kanal D2">
+    <title lang="ro">Teleshopping</title>
+  </programme>
+  <programme start="20241204103000 +0200" stop="20241204111500 +0200" channel="Kanal D2">
+    <title lang="ro">Vacanţa Mare: Leana s-a întors!</title>
+    <desc lang="ro">În viaţa liniştită a locuitorilor satului oltenesc Sadova îşi fac apariţia Investitorul (Daniel Lazăr) şi Profesoara (Ramona Olteanu), cele două personaje atrăgând atenţia tuturor. Leana (Mugur Mihaescu) şi Urinela (Ani Creţu) vor face tot ce le stă în putinţă pentru a o îndepărta pe frumoasa Profesoară din calea cuceririi inimii Investitorului, cel mai frumos, cel mai deştept şi bogat bărbat din sat.
+
+Axinte (Florin Petrescu) devine bulibaşă iar Lila (Mirela Stoian) este permanent lângă el pentru a-i încurca viaţa. Popa (Cristian Boeriu) se dovedeşte a fi agent CIA sub acoperire, rolul lui real în Sadova fiind de a spiona extratereştrii care ameninţă să atace satul. Serialul Elodia va fi reluat de coloratele personaje din sat, în manieră Vacanţa Mare.
+
+Scenariul poartă semnătura Radu Pietreanu care promite că noul produs Vacanţa Mare va creea dependenţă şi că telespectatorii nu se vor putea dezlipi de ecrane şi vor număra minutele până la următorul episod.(n)</desc>
+  </programme>
+  <programme start="20241204111500 +0200" stop="20241204114500 +0200" channel="Kanal D2">
+    <title lang="ro">Teleshopping</title>
+  </programme>
+  <programme start="20241204114500 +0200" stop="20241204121500 +0200" channel="Kanal D2">
+    <title lang="ro">Play it</title>
+  </programme>
+  <programme start="20241204121500 +0200" stop="20241204123000 +0200" channel="Kanal D2">
+    <title lang="ro">Teleshopping</title>
+  </programme>
+  <programme start="20241204123000 +0200" stop="20241204133000 +0200" channel="Kanal D2">
+    <title lang="ro">Newstime</title>
+  </programme>
+  <programme start="20241204133000 +0200" stop="20241204134500 +0200" channel="Kanal D2">
+    <title lang="ro">Teleshopping</title>
+  </programme>
+  <programme start="20241204134500 +0200" stop="20241204150000 +0200" channel="Kanal D2">
+    <title lang="ro">Pretul fericirii</title>
+  </programme>
+  <programme start="20241204150000 +0200" stop="20241204163000 +0200" channel="Kanal D2">
+    <title lang="ro">Pe banii părinţilor</title>
+    <desc lang="ro">În prim plan-ul show-ului se află adolescenți care doresc să își sărbătorească majoratul, tineri care își doresc o petrecere de vis, ca de vedetă. Să primească mașini de fițe și carduri cu fonduri nelimitate, să petreacă în localuri luxoase, sunt doar cîteva din “micile” pretenții ale adolescenților. 
+
+Ernest va fi alături de tineri de la început, încă de la primele etape ale organizării petrecerii de majorat, analizînd evoluția lucrurilor. Prietenii, frații și bunicii acestora vor condimenta show-ul dezvăluindu-ne poveşti impresionante și întîmplări amuzante din viaţa sărbătoriților.(n)</desc>
+  </programme>
+  <programme start="20241204163000 +0200" stop="20241204174500 +0200" channel="Kanal D2">
+    <title lang="ro">Poveste din Anatolia</title>
+  </programme>
+  <programme start="20241204174500 +0200" stop="20241204200000 +0200" channel="Kanal D2">
+    <title lang="ro">Melek</title>
+  </programme>
+  <programme start="20241204200000 +0200" stop="20241204210000 +0200" channel="Kanal D2">
+    <title lang="ro">Newstime</title>
+  </programme>
+  <programme start="20241204210000 +0200" stop="20241204223000 +0200" channel="Kanal D2">
+    <title lang="ro">Pe banii părinţilor</title>
+    <desc lang="ro">În prim plan-ul show-ului se află adolescenți care doresc să își sărbătorească majoratul, tineri care își doresc o petrecere de vis, ca de vedetă. Să primească mașini de fițe și carduri cu fonduri nelimitate, să petreacă în localuri luxoase, sunt doar cîteva din “micile” pretenții ale adolescenților. 
+
+Ernest va fi alături de tineri de la început, încă de la primele etape ale organizării petrecerii de majorat, analizînd evoluția lucrurilor. Prietenii, frații și bunicii acestora vor condimenta show-ul dezvăluindu-ne poveşti impresionante și întîmplări amuzante din viaţa sărbătoriților.(n)</desc>
+  </programme>
+  <programme start="20241204223000 +0200" stop="20241205000000 +0200" channel="Kanal D2">
+    <title lang="ro">Pretul fericirii</title>
+  </programme>
+  <programme start="20241204080000 +0200" stop="20241204081000 +0200" channel="Credo TV">
+    <title lang="ro">Cuvântul lui Dumnezeu pentru astăzi</title>
+  </programme>
+  <programme start="20241204081000 +0200" stop="20241204082000 +0200" channel="Credo TV">
+    <title lang="ro">Tableta de limbă română</title>
+  </programme>
+  <programme start="20241204082000 +0200" stop="20241204083000 +0200" channel="Credo TV">
+    <title lang="ro">Pâinea cea de toate zilele</title>
+    <desc lang="ro">Evangheliile - dramatizare.(n)</desc>
+  </programme>
+  <programme start="20241204083000 +0200" stop="20241204084000 +0200" channel="Credo TV">
+    <title lang="ro">Orașele lumii</title>
+  </programme>
+  <programme start="20241204084000 +0200" stop="20241204090000 +0200" channel="Credo TV">
+    <title lang="ro">Proiectul Biblia</title>
+  </programme>
+  <programme start="20241204090000 +0200" stop="20241204100000 +0200" channel="Credo TV">
+    <title lang="ro">Perspective Eterne</title>
+    <desc lang="ro">Harvest Arad.(n)</desc>
+  </programme>
+  <programme start="20241204100000 +0200" stop="20241204110000 +0200" channel="Credo TV">
+    <title lang="ro">Între Bare</title>
+    <desc lang="ro">real. Cătălin Vasile.(n)</desc>
+  </programme>
+  <programme start="20241204110000 +0200" stop="20241204113000 +0200" channel="Credo TV">
+    <title lang="ro">Eu, Mântuit?</title>
+    <desc lang="ro">cu Raul Damean și Vasilică Croitor.(n)</desc>
+  </programme>
+  <programme start="20241204113000 +0200" stop="20241204120000 +0200" channel="Credo TV">
+    <title lang="ro">Citirea Bibliei</title>
+  </programme>
+  <programme start="20241204120000 +0200" stop="20241204130000 +0200" channel="Credo TV">
+    <title lang="ro">Cortul întâlnirii</title>
+  </programme>
+  <programme start="20241204130000 +0200" stop="20241204133000 +0200" channel="Credo TV">
+    <title lang="ro">Iubește Israelul</title>
+    <desc lang="ro">cu Dr. Baruch.(n)</desc>
+  </programme>
+  <programme start="20241204133000 +0200" stop="20241204145700 +0200" channel="Credo TV">
+    <title lang="ro">Conferință/Concert</title>
+  </programme>
+  <programme start="20241204145700 +0200" stop="20241204150000 +0200" channel="Credo TV">
+    <title lang="ro">Cuvântul Lui Dumnezeu Pentru Astăzi</title>
+    <desc lang="ro">meditații zilnice de Bob și Debby Gass.(n)</desc>
+  </programme>
+  <programme start="20241204150000 +0200" stop="20241204160000 +0200" channel="Credo TV">
+    <title lang="ro">De vorbă</title>
+    <desc lang="ro">Podcast - 
+realizator: Andrei Baciu.(n)</desc>
+  </programme>
+  <programme start="20241204160000 +0200" stop="20241204164000 +0200" channel="Credo TV">
+    <title lang="ro">Cuvinte din Lumină</title>
+    <desc lang="ro">mesaje cu pastorul Relu Moldovanu.(n)</desc>
+  </programme>
+  <programme start="20241204164000 +0200" stop="20241204170000 +0200" channel="Credo TV">
+    <title lang="ro">Indicator Pentru Suflet</title>
+    <desc lang="ro">real. Gabriela Povian.(n)</desc>
+  </programme>
+  <programme start="20241204170000 +0200" stop="20241204174000 +0200" channel="Credo TV">
+    <title lang="ro">De la Moarte la Viață</title>
+    <desc lang="ro">real. Tinel Baciu.(n)</desc>
+  </programme>
+  <programme start="20241204174000 +0200" stop="20241204180000 +0200" channel="Credo TV">
+    <title lang="ro">Mituri Despre Avort</title>
+    <desc lang="ro">real. Raluca Șorhenț.(n)</desc>
+  </programme>
+  <programme start="20241204180000 +0200" stop="20241204181000 +0200" channel="Credo TV">
+    <title lang="ro">Cuvântul lui Dumnezeu pentru astăzi</title>
+  </programme>
+  <programme start="20241204181000 +0200" stop="20241204182000 +0200" channel="Credo TV">
+    <title lang="ro">Tableta de limbă română</title>
+  </programme>
+  <programme start="20241204182000 +0200" stop="20241204183000 +0200" channel="Credo TV">
+    <title lang="ro">Pâinea cea de toate zilele</title>
+    <desc lang="ro">Evangheliile - dramatizare.(n)</desc>
+  </programme>
+  <programme start="20241204183000 +0200" stop="20241204184000 +0200" channel="Credo TV">
+    <title lang="ro">Orașele lumii</title>
+  </programme>
+  <programme start="20241204184000 +0200" stop="20241204190000 +0200" channel="Credo TV">
+    <title lang="ro">Proiectul Biblia</title>
+  </programme>
+  <programme start="20241204190000 +0200" stop="20241204191500 +0200" channel="Credo TV">
+    <title lang="ro">7 minute în familie</title>
+    <desc lang="ro">real. Ileana și Marius Radu.(n)</desc>
+  </programme>
+  <programme start="20241204191500 +0200" stop="20241204193000 +0200" channel="Credo TV">
+    <title lang="ro">Războiul cu noi înșine</title>
+    <desc lang="ro">Realizator: Viorel Horia Țânțaș.(n)</desc>
+  </programme>
+  <programme start="20241204193000 +0200" stop="20241204200000 +0200" channel="Credo TV">
+    <title lang="ro">Abordarea crizelor vieții</title>
+    <desc lang="ro">real. Ioan Poenar.(n)</desc>
+  </programme>
+  <programme start="20241204200000 +0200" stop="20241204203000 +0200" channel="Credo TV">
+    <title lang="ro">Pericolele generației noastre</title>
+    <desc lang="ro">real. Adrian Stupar.(n)</desc>
+  </programme>
+  <programme start="20241204203000 +0200" stop="20241204210000 +0200" channel="Credo TV">
+    <title lang="ro">Bătăliile Inimii</title>
+    <desc lang="ro">cu Raul Damean.(n)</desc>
+  </programme>
+  <programme start="20241204210000 +0200" stop="20241204220000 +0200" channel="Credo TV">
+    <title lang="ro">Perspective biblice</title>
+  </programme>
+  <programme start="20241204220000 +0200" stop="20241204223000 +0200" channel="Credo TV">
+    <title lang="ro">Întâlniri de gradul zero</title>
+    <desc lang="ro">real. Cristina Olariu.(n)</desc>
+  </programme>
+  <programme start="20241204223000 +0200" stop="20241204233000 +0200" channel="Credo TV">
+    <title lang="ro">În Lumina Cuvântului</title>
+    <desc lang="ro">real. Radu Mariș.(n)</desc>
+  </programme>
+  <programme start="20241204233000 +0200" stop="20241205000000 +0200" channel="Credo TV">
+    <title lang="ro">Cuvântul Viu</title>
+    <desc lang="ro">cu Russ Doebler, de la Living Word Church, Broadhead Wisconsin.(n)</desc>
+  </programme>
+  <programme start="20241204090000 +0200" stop="20241204100000 +0200" channel="Sens TV">
+    <title lang="ro">100 Rețete pe foc</title>
+    <desc lang="ro">Rețete tradiționale românești, gătite la foc.(n)</desc>
+  </programme>
+  <programme start="20241204100000 +0200" stop="20241204113000 +0200" channel="Sens TV">
+    <title lang="ro">Sens Național</title>
+    <desc lang="ro">Analize, discuții și concluzii despre cele mai importante evenimente din lume și din România.(n)</desc>
+  </programme>
+  <programme start="20241204113000 +0200" stop="20241204140000 +0200" channel="Sens TV">
+    <title lang="ro">Design cu Sens</title>
+  </programme>
+  <programme start="20241204140000 +0200" stop="20241204150000 +0200" channel="Sens TV">
+    <title lang="ro">Design interior</title>
+  </programme>
+  <programme start="20241204150000 +0200" stop="20241204160000 +0200" channel="Sens TV">
+    <title lang="ro">Jurnal Sport</title>
+  </programme>
+  <programme start="20241204160000 +0200" stop="20241204170000 +0200" channel="Sens TV">
+    <title lang="ro">Marile întâlniri</title>
+    <desc lang="ro">cu Eveline Păuna.(n)</desc>
+  </programme>
+  <programme start="20241204170000 +0200" stop="20241204180000 +0200" channel="Sens TV">
+    <title lang="ro">Documentarele SensTV</title>
+    <desc lang="ro">Filme documentare.(n)</desc>
+  </programme>
+  <programme start="20241204180000 +0200" stop="20241204190000 +0200" channel="Sens TV">
+    <title lang="ro">News Podcast</title>
+    <desc lang="ro">Podcast cu Sorin Manea și Oreste Teodorescu, un concept bazat pe opinii despre evenimente recente din realitatea de zi cu zi.(n)</desc>
+  </programme>
+  <programme start="20241204190000 +0200" stop="20241204200000 +0200" channel="Sens TV">
+    <title lang="ro">Design cu Sens</title>
+  </programme>
+  <programme start="20241204200000 +0200" stop="20241204213000 +0200" channel="Sens TV">
+    <title lang="ro">Poveste cu Oreste</title>
+  </programme>
+  <programme start="20241204213000 +0200" stop="20241204220000 +0200" channel="Sens TV">
+    <title lang="ro">Design cu Sens</title>
+  </programme>
+  <programme start="20241204220000 +0200" stop="20241204230000 +0200" channel="Sens TV">
+    <title lang="ro">Astrologica</title>
+  </programme>
+  <programme start="20241204230000 +0200" stop="20241205070000 +0200" channel="Sens TV">
+    <title lang="ro">Documentarele SensTV</title>
+    <desc lang="ro">Filme documentare.(n)</desc>
+  </programme>
+  <programme start="20241204080000 +0200" stop="20241204083000 +0200" channel="Inedit TV">
+    <title lang="ro">Momente de relaxare</title>
+  </programme>
+  <programme start="20241204083000 +0200" stop="20241204090000 +0200" channel="Inedit TV">
+    <title lang="ro">Interesant, nu?</title>
+  </programme>
+  <programme start="20241204090000 +0200" stop="20241204100000 +0200" channel="Inedit TV">
+    <title lang="ro">Miracolele naturii</title>
+  </programme>
+  <programme start="20241204100000 +0200" stop="20241204120000 +0200" channel="Inedit TV">
+    <title lang="ro">ABC-ul Credinței</title>
+  </programme>
+  <programme start="20241204120000 +0200" stop="20241204140000 +0200" channel="Inedit TV">
+    <title lang="ro">Lumea de azi, lumea de mâine</title>
+  </programme>
+  <programme start="20241204140000 +0200" stop="20241204150000 +0200" channel="Inedit TV">
+    <title lang="ro">Miracolele naturii</title>
+  </programme>
+  <programme start="20241204150000 +0200" stop="20241204163000 +0200" channel="Inedit TV">
+    <title lang="ro">Teleshopping</title>
+  </programme>
+  <programme start="20241204163000 +0200" stop="20241204170000 +0200" channel="Inedit TV">
+    <title lang="ro">Muzica anilor</title>
+  </programme>
+  <programme start="20241204170000 +0200" stop="20241204180000 +0200" channel="Inedit TV">
+    <title lang="ro">Teleshopping</title>
+  </programme>
+  <programme start="20241204180000 +0200" stop="20241204190000 +0200" channel="Inedit TV">
+    <title lang="ro">Lumea de azi, lumea de mâine</title>
+  </programme>
+  <programme start="20241204190000 +0200" stop="20241204200000 +0200" channel="Inedit TV">
+    <title lang="ro">ABC-ul credintei</title>
+  </programme>
+  <programme start="20241204200000 +0200" stop="20241204220000 +0200" channel="Inedit TV">
+    <title lang="ro">Istoria medicinei (special)</title>
+  </programme>
+  <programme start="20241204220000 +0200" stop="20241205000000 +0200" channel="Inedit TV">
+    <title lang="ro">Film documentar/artistic</title>
+  </programme>
+  <programme start="20241204073000 +0200" stop="20241204080000 +0200" channel="Job TV">
+    <title lang="ro">Retrospectiva</title>
+  </programme>
+  <programme start="20241204080000 +0200" stop="20241204083000 +0200" channel="Job TV">
+    <title lang="ro">S.O.S. Job</title>
+  </programme>
+  <programme start="20241204083000 +0200" stop="20241204093000 +0200" channel="Job TV">
+    <title lang="ro">Rodul pamantului</title>
+  </programme>
+  <programme start="20241204093000 +0200" stop="20241204100000 +0200" channel="Job TV">
+    <title lang="ro">Stirile Job News</title>
+  </programme>
+  <programme start="20241204100000 +0200" stop="20241204110000 +0200" channel="Job TV">
+    <title lang="ro">Creatori de destine</title>
+  </programme>
+  <programme start="20241204110000 +0200" stop="20241204113000 +0200" channel="Job TV">
+    <title lang="ro">Teleshoping</title>
+  </programme>
+  <programme start="20241204113000 +0200" stop="20241204130000 +0200" channel="Job TV">
+    <title lang="ro">Telefoneaza, Job TV te premiaza!</title>
+  </programme>
+  <programme start="20241204130000 +0200" stop="20241204140000 +0200" channel="Job TV">
+    <title lang="ro">Dorul de acasa</title>
+  </programme>
+  <programme start="20241204140000 +0200" stop="20241204150000 +0200" channel="Job TV">
+    <title lang="ro">Povesti de succes</title>
+  </programme>
+  <programme start="20241204150000 +0200" stop="20241204153000 +0200" channel="Job TV">
+    <title lang="ro">Retrospectiva</title>
+  </programme>
+  <programme start="20241204153000 +0200" stop="20241204160000 +0200" channel="Job TV">
+    <title lang="ro">Profitabil</title>
+  </programme>
+  <programme start="20241204160000 +0200" stop="20241204170000 +0200" channel="Job TV">
+    <title lang="ro">Creatori de destine</title>
+  </programme>
+  <programme start="20241204170000 +0200" stop="20241204173000 +0200" channel="Job TV">
+    <title lang="ro">Teleshoping</title>
+  </programme>
+  <programme start="20241204173000 +0200" stop="20241204180000 +0200" channel="Job TV">
+    <title lang="ro">Telefoneaza, Job TV te premiaza!</title>
+  </programme>
+  <programme start="20241204180000 +0200" stop="20241204193000 +0200" channel="Job TV">
+    <title lang="ro">Top vlog</title>
+  </programme>
+  <programme start="20241204193000 +0200" stop="20241204203000 +0200" channel="Job TV">
+    <title lang="ro">Luxury jobs</title>
+  </programme>
+  <programme start="20241204203000 +0200" stop="20241204223000 +0200" channel="Job TV">
+    <title lang="ro">Tombola romanilor</title>
+  </programme>
+  <programme start="20241204223000 +0200" stop="20241205003000 +0200" channel="Job TV">
+    <title lang="ro">Preluare Party Mix Tv</title>
+  </programme>
+</tv>
